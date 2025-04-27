@@ -129,6 +129,36 @@ h1 {
         font-size: 200%; 
     }
 
+    button {
+        top: 90%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transition-duration: 0.4s;
+        padding: 10px 32px;
+    
+    }
+
+    .longer button{
+        width: 15em;
+    }
+
+    .next {
+        top: 75%;
+    }
+    
+    .answer {
+        top: 83%;
+    }
+    
+    .change {
+        top: 91%;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
   }
   /*Mediana*/
   @media only screen and (min-width: 600px) {

@@ -4712,35 +4712,19 @@ songsLyricsJson = `{
             },
             "lyrics": [
                 {
-                    "line": "La meta es",
+                    "line": "La meta es servir aún más,",
                     "singTheSong": true
                 },
                 {
-                    "line": "servir aún más,",
+                    "line": "con toda el alma, sin dudar ya más.",
                     "singTheSong": true
                 },
                 {
-                    "line": "con toda el alma,",
+                    "line": "Si no es hoy y no es aquí,",
                     "singTheSong": true
                 },
                 {
-                    "line": "sin dudar ya más.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Si no es hoy",
-                    "singTheSong": true
-                },
-                {
-                    "line": "y no es aquí,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "tal vez ya no lo vas",
-                    "singTheSong": true
-                },
-                {
-                    "line": "a conseguir.",
+                    "line": "tal vez ya no lo vas a conseguir.",
                     "singTheSong": true
                 },
                 {
@@ -4748,67 +4732,35 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Hay que avanzar",
+                    "line": "Hay que avanzar sin vacilar,",
                     "singTheSong": true
                 },
                 {
-                    "line": "sin vacilar,",
+                    "line": "sin esperar y sin mirar atrás.",
                     "singTheSong": true
                 },
                 {
-                    "line": "sin esperar y sin",
+                    "line": "Con mucha fe hay que avanzar, sin parar.",
                     "singTheSong": true
                 },
                 {
-                    "line": "mirar atrás.",
+                    "line": "Hay que servir con paz mental.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Con mucha fe",
+                    "line": " Jehová te ve con compasión.",
                     "singTheSong": true
                 },
                 {
-                    "line": "hay que avanzar, sin parar.",
+                    "line": "Conoce bien, muy bien, tu situación.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Hay que servir",
+                    "line": "No hay que pensar: “No es para mí”.",
                     "singTheSong": true
                 },
                 {
-                    "line": "con paz mental.",
-                    "singTheSong": true
-                },
-                {
-                    "line": " Jehová te ve",
-                    "singTheSong": true
-                },
-                {
-                    "line": "con compasión.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Conoce bien,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "muy bien, tu situación.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "No hay que pensar:",
-                    "singTheSong": true
-                },
-                {
-                    "line": "“No es para mí”.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Hay que confiar en él",
-                    "singTheSong": true
-                },
-                {
-                    "line": "y decidir.",
+                    "line": "Hay que confiar en él y decidir.",
                     "singTheSong": true
                 },
                 {
@@ -4816,67 +4768,35 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Hay que avanzar",
+                    "line": "Hay que avanzar sin vacilar,",
                     "singTheSong": true
                 },
                 {
-                    "line": "sin vacilar,",
+                    "line": "sin esperar y sin mirar atrás.",
                     "singTheSong": true
                 },
                 {
-                    "line": "sin esperar y sin",
+                    "line": "Con mucha fe hay que seguir, sin parar.",
                     "singTheSong": true
                 },
                 {
-                    "line": "mirar atrás.",
+                    "line": "Hay que servir con paz mental.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Con mucha fe",
+                    "line": "La puerta has cruzado ya.",
                     "singTheSong": true
                 },
                 {
-                    "line": "hay que seguir, sin parar.",
+                    "line": "Lo que has dejado no te faltará.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Hay que servir",
+                    "line": "Jehová sabrá recompensar tu labor",
                     "singTheSong": true
                 },
                 {
-                    "line": "con paz mental.",
-                    "singTheSong": true
-                },
-                {
-                    "line": " La puerta has",
-                    "singTheSong": true
-                },
-                {
-                    "line": "cruzado ya.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Lo que has dejado",
-                    "singTheSong": true
-                },
-                {
-                    "line": "no te faltará.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Jehová sabrá",
-                    "singTheSong": true
-                },
-                {
-                    "line": "recompensar tu labor",
-                    "singTheSong": true
-                },
-                {
-                    "line": "por siempre, sí,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "no solo hoy.",
+                    "line": "por siempre, sí, no solo hoy.",
                     "singTheSong": true
                 },
                 {
@@ -4884,72 +4804,40 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Hay que avanzar",
+                    "line": "Hay que avanzar sin vacilar,",
                     "singTheSong": true
                 },
                 {
-                    "line": "sin vacilar,",
+                    "line": "sin esperar y sin mirar atrás.",
                     "singTheSong": true
                 },
                 {
-                    "line": "sin esperar y sin",
+                    "line": "Con mucha fe hay que seguir, y sin parar.",
                     "singTheSong": true
                 },
                 {
-                    "line": "mirar atrás.",
+                    "line": "Hay que servir con paz mental.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Con mucha fe",
+                    "line": "Hay que avanzar sin vacilar,",
                     "singTheSong": true
                 },
                 {
-                    "line": "hay que seguir, y sin parar.",
+                    "line": "sin esperar y sin mirar atrás.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Hay que servir",
+                    "line": "Con mucha fe hay que seguir, y sin parar.",
                     "singTheSong": true
                 },
                 {
-                    "line": "con paz mental.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Hay que avanzar",
-                    "singTheSong": true
-                },
-                {
-                    "line": "sin vacilar,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "sin esperar y sin",
-                    "singTheSong": true
-                },
-                {
-                    "line": "mirar atrás.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Con mucha fe",
-                    "singTheSong": true
-                },
-                {
-                    "line": "hay que seguir, y sin parar.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Hay que servir",
-                    "singTheSong": true
-                },
-                {
-                    "line": "con paz mental.",
+                    "line": "Hay que servir con paz mental.",
                     "singTheSong": true
                 },
                 {
                     "line": "Hay que avanzar.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -17103,6 +16991,7 @@ function timer() {
     if (timerLeft <= 0) {
         clearInterval(intervarId)
         timerElement.textContent = 'Se acabó el tiempo.'
+        timerElement.style.color = 'black'
     }
 }
 
