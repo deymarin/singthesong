@@ -102,6 +102,11 @@ button:hover {
     top: 85%;
 }
 
+.secondary-btn {
+    background-color: rgba(255, 255, 255, 0.425);
+    color: black;
+}
+
 h1 {
     text-align: center;
     color: white;
