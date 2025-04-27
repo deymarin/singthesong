@@ -123,14 +123,14 @@ songsLyricsJson = `{
         {
             "title": "La vida más hermosa",
             "path": "../songs/La vida más hermosa.mp3",
-            "karaokePath": "..songs/karaoke/La vida más hermosa.mp3",
+            "karaokePath": "..songs/karaoke/La vida mas hermosa Karaoke.mp3",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 50,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -247,33 +247,29 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "la vida más hermosa,",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "la vida más hermosa.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
         {
             "title": "Allí estaremos",
             "path": "../songs/Allí estaremos.mp3",
-            "karaokePath": "..songs/karaoke/Allí estaremos.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 57,
+                "guess": 5
             },
             "lyrics": [
                 {
-                    "line": "Si los vientos",
-                    "singTheSong": true
-                },
-                {
-                    "line": "y las lluvias",
+                    "line": "Si los vientos y las lluvias",
                     "singTheSong": true
                 },
                 {
@@ -281,19 +277,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Dios te cuidará,",
+                    "line": "Dios te cuidará, te consolará,",
                     "singTheSong": true
                 },
                 {
-                    "line": "te consolará,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "y tu hermandad",
-                    "singTheSong": true
-                },
-                {
-                    "line": "te mostrará",
+                    "line": "y tu hermandad te mostrará",
                     "singTheSong": true
                 },
                 {
@@ -321,11 +309,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Mantén la fe,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "no hay que temer,",
+                    "line": "Mantén la fe, no hay que temer,",
                     "singTheSong": true
                 },
                 {
@@ -341,11 +325,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Cuando pasa",
-                    "singTheSong": true
-                },
-                {
-                    "line": "la tormenta,",
+                    "line": "Cuando pasa la tormenta,",
                     "singTheSong": true
                 },
                 {
@@ -353,19 +333,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "y tu hermandad",
+                    "line": "y tu hermandad pronto acudirá.",
                     "singTheSong": true
                 },
                 {
-                    "line": "pronto acudirá.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Con su calor,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "y con su amor",
+                    "line": "Con su calor, y con su amor",
                     "singTheSong": true
                 },
                 {
@@ -393,11 +365,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Mantén la fe,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "no hay que temer,",
+                    "line": "Mantén la fe, no hay que temer,",
                     "singTheSong": true
                 },
                 {
@@ -425,14 +393,14 @@ songsLyricsJson = `{
         {
             "title": "Si fueras conmigo",
             "path": "../songs/Si fueras conmigo.mp3",
-            "karaokePath": "..songs/karaoke/Si fueras conmigo.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 30,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -547,15 +515,15 @@ songsLyricsJson = `{
         },
         {
             "title": "¿Qué es lo más importante?",
-            "path": "../songs/¿Qué es lo más importante?.mp3",
-            "karaokePath": "..songs/karaoke/¿Qué es lo más importante?.mp3",
+            "path": "../songs/Que es lo mas importante.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 9,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -618,15 +586,15 @@ songsLyricsJson = `{
         },
         {
             "title": "Fiel yo seré",
-            "path": "../songs/Fiel yo seré.mp3",
-            "karaokePath": "..songs/karaoke/Fiel yo seré.mp3",
+            "path": "../songs/Fiel yo sere.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 61,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -761,15 +729,15 @@ songsLyricsJson = `{
         },
         {
             "title": "Jehová, lo mejor es para ti",
-            "path": "../songs/Jehová, lo mejor es para ti.mp3",
-            "karaokePath": "..songs/karaoke/Jehová, lo mejor es para ti.mp3",
+            "path": "../songs/Jehova, lo mejor es para ti.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 47,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -865,14 +833,14 @@ songsLyricsJson = `{
         {
             "title": "Mi vida entera te doy",
             "path": "../songs/Mi vida entera te doy.mp3",
-            "karaokePath": "..songs/karaoke/Mi vida entera te doy.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -892,19 +860,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Sé que bendices a aquellos que",
+                    "line": "Sé que bendices a aquellos que leales a ti son.",
                     "singTheSong": true
                 },
                 {
-                    "line": "leales a ti son.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "El paso nadie lo puede dar por mí;",
-                    "singTheSong": true
-                },
-                {
-                    "line": "es mía la decisión.",
+                    "line": "El paso nadie lo puede dar por mí; es mía la decisión.",
                     "singTheSong": true
                 },
                 {
@@ -989,25 +949,25 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "Mi vida entera te doy.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "Mi vida entera te doy.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
         {
             "title": "Superé la prueba",
-            "path": "../songs/Superé la prueba.mp3",
-            "karaokePath": "..songs/karaoke/Superé la prueba.mp3",
+            "path": "../songs/Supere la prueba.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 51,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -1135,14 +1095,14 @@ songsLyricsJson = `{
         {
             "title": "Hoy es el día",
             "path": "../songs/Hoy es el día.mp3",
-            "karaokePath": "..songs/karaoke/Hoy es el día.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 43,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -1318,14 +1278,14 @@ songsLyricsJson = `{
         {
             "title": "Sonreír",
             "path": "../songs/Sonreír.mp3",
-            "karaokePath": "..songs/karaoke/Sonreír.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 45,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -1457,14 +1417,14 @@ songsLyricsJson = `{
         {
             "title": "Imaginarlo",
             "path": "../songs/Imaginarlo.mp3",
-            "karaokePath": "..songs/karaoke/Imaginarlo.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 35,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -1476,11 +1436,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Tomo el tiempo, investigo,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "nunca dejo de buscar.",
+                    "line": "Tomo el tiempo, investigo, nunca dejo de buscar.",
                     "singTheSong": true
                 },
                 {
@@ -1573,25 +1529,25 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "Imaginarlo y meditarlo.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "Imaginarlo y meditarlo.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
         {
             "title": "Jehová te dice: “¡Vuelve a mí!”",
-            "path": "../songs/Jehová te dice: “¡Vuelve a mí!”.mp3",
-            "karaokePath": "..songs/karaoke/Jehová te dice: “¡Vuelve a mí!”.mp3",
+            "path": "../songs/Jehová te dice “¡Vuelve a mí!”.mp3",
+            "karaokePath": "..songs/karaoke/Jehova te dice vuelve a mi Karaoke.mp3",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 60,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -1603,11 +1559,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Tu interior cambió,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "pero me olvidó.",
+                    "line": "Tu interior cambió, pero me olvidó.",
                     "singTheSong": true
                 },
                 {
@@ -1667,11 +1619,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "La felicidad",
-                    "singTheSong": true
-                },
-                {
-                    "line": "recuperarás.",
+                    "line": "La felicidad recuperarás.",
                     "singTheSong": true
                 },
                 {
@@ -1707,14 +1655,14 @@ songsLyricsJson = `{
         {
             "title": "Las asambleas nos hacen felices",
             "path": "../songs/Las asambleas nos hacen felices.mp3",
-            "karaokePath": "..songs/karaoke/Las asambleas nos hacen felices.mp3",
+            "karaokePath": "..songs/karaoke/Las asambleas nos hacen felices - Karaoke.mp3",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 36,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -1806,19 +1754,11 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Ven hacia mí.",
+                    "line": "Ven hacia mí. Estoy junto a ti.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Estoy junto a ti.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Contigo yo",
-                    "singTheSong": true
-                },
-                {
-                    "line": "caminaré a la eternidad.",
+                    "line": "Contigo yo caminaré a la eternidad.",
                     "singTheSong": true
                 },
                 {
@@ -1827,65 +1767,49 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "Mis hermanos, mis hermanas, todos me dan calor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "Y aunque apenas te conozco, tú ya tienes mi amor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "Mis hermanos, mis hermanas, todos me dan calor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "Y aunque apenas te conozco, tú ya tienes mi amor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "Y aunque apenas te conozco, tú ya tienes mi amor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
         {
             "title": "Te entrego lo mejor de mí",
             "path": "../songs/Te entrego lo mejor de mí.mp3",
-            "karaokePath": "..songs/karaoke/Te entrego lo mejor de mí.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 40,
+                "guess": 5
             },
             "lyrics": [
                 {
-                    "line": "Nos diste el honor;",
+                    "line": "Nos diste el honor; un pequeñito a quien amar.",
                     "singTheSong": true
                 },
                 {
-                    "line": "un pequeñito a quien amar.",
+                    "line": "Él ya creció y decidió servirte a ti.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Él ya creció",
-                    "singTheSong": true
-                },
-                {
-                    "line": "y decidió",
-                    "singTheSong": true
-                },
-                {
-                    "line": "servirte a ti.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Qué dicha, sí.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Hoy el trabajo fruto dio.",
+                    "line": "Qué dicha, sí. Hoy el trabajo fruto dio.",
                     "singTheSong": true
                 },
                 {
@@ -1893,31 +1817,15 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Nos duele el adiós,",
+                    "line": "Nos duele el adiós, pero, al servir a Dios, sabemos que será feliz.",
                     "singTheSong": true
                 },
                 {
-                    "line": "pero, al servir a Dios,",
+                    "line": "Tu mano lo protegerá por la eternidad.",
                     "singTheSong": true
                 },
                 {
-                    "line": "sabemos que será feliz.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Tu mano lo protegerá",
-                    "singTheSong": true
-                },
-                {
-                    "line": "por la eternidad.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Me llenas de tu paz,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "sé que tu amor lo guiará.",
+                    "line": "Me llenas de tu paz, sé que tu amor lo guiará.",
                     "singTheSong": true
                 },
                 {
@@ -1929,27 +1837,15 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Mi niña llegó,",
+                    "line": "Mi niña llegó, es un regalo que nos das.",
                     "singTheSong": true
                 },
                 {
-                    "line": "es un regalo que nos das.",
+                    "line": "Con mucho amor, y aun dolor,",
                     "singTheSong": true
                 },
                 {
-                    "line": "Con mucho amor,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "y aun dolor,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "se le cuidó,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "su fe creció.",
+                    "line": "se le cuidó, su fe creció.",
                     "singTheSong": true
                 },
                 {
@@ -2001,14 +1897,14 @@ songsLyricsJson = `{
         {
             "title": "Ten calma al decidir",
             "path": "../songs/Ten calma al decidir.mp3",
-            "karaokePath": "..songs/karaoke/Ten calma al decidir.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 44,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -2109,21 +2005,21 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "a quién amar.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
         {
             "title": "Contemplo ese día",
             "path": "../songs/Contemplo ese día.mp3",
-            "karaokePath": "..songs/karaoke/Contemplo ese día.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 39,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -2255,46 +2151,30 @@ songsLyricsJson = `{
         {
             "title": "Estoy al día",
             "path": "../songs/Estoy al día.mp3",
-            "karaokePath": "..songs/karaoke/Estoy al día.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 5
             },
             "lyrics": [
                 {
-                    "line": "La escena del mundo cambia.",
+                    "line": "La escena del mundo cambia. Yo la he visto pasar.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Yo la he visto pasar.",
+                    "line": "Ayúdame ahora a no quedar atrás.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Ayúdame ahora",
+                    "line": "Si nadie está en casa, o hay oposición,",
                     "singTheSong": true
                 },
                 {
-                    "line": "a no quedar atrás.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Si nadie está en casa,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "o hay oposición,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "encuentro otras formas de",
-                    "singTheSong": true
-                },
-                {
-                    "line": "seguir con mi labor.",
+                    "line": "encuentro otras formas de seguir con mi labor.",
                     "singTheSong": true
                 },
                 {
@@ -2306,19 +2186,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Junto a los demás,",
+                    "line": "Junto a los demás, con ellos voy.",
                     "singTheSong": true
                 },
                 {
-                    "line": "con ellos voy.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "El carro celestial",
-                    "singTheSong": true
-                },
-                {
-                    "line": "es nuestra guía,",
+                    "line": "El carro celestial es nuestra guía,",
                     "singTheSong": true
                 },
                 {
@@ -2330,27 +2202,15 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Espero cada día",
+                    "line": "Espero cada día que las cosas salgan bien,",
                     "singTheSong": true
                 },
                 {
-                    "line": "que las cosas salgan bien,",
+                    "line": "mas siempre ocurre algo que no debe ser.",
                     "singTheSong": true
                 },
                 {
-                    "line": "mas siempre ocurre algo",
-                    "singTheSong": true
-                },
-                {
-                    "line": "que no debe ser.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Para remediarlo,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "yo no pierdo el control.",
+                    "line": "Para remediarlo, yo no pierdo el control.",
                     "singTheSong": true
                 },
                 {
@@ -2414,15 +2274,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Lo que vendrá",
-                    "singTheSong": true
-                },
-                {
-                    "line": "veo ya",
-                    "singTheSong": true
-                },
-                {
-                    "line": "con toda claridad.",
+                    "line": "Lo que vendrá veo ya con toda claridad.",
                     "singTheSong": true
                 },
                 {
@@ -2502,22 +2354,18 @@ songsLyricsJson = `{
         {
             "title": "Tú puedes dar el paso",
             "path": "../songs/Tú puedes dar el paso.mp3",
-            "karaokePath": "..songs/karaoke/Tú puedes dar el paso.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 57,
+                "guess": 5
             },
             "lyrics": [
                 {
-                    "line": "Tal vez te has preguntado:",
-                    "singTheSong": true
-                },
-                {
-                    "line": "“¿Lo podré lograr?”.",
+                    "line": "Tal vez te has preguntado: “¿Lo podré lograr?”.",
                     "singTheSong": true
                 },
                 {
@@ -2573,27 +2421,15 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": " Si llevas las buenas nuevas",
+                    "line": " Si llevas las buenas nuevas a los de otra nación,",
                     "singTheSong": true
                 },
                 {
-                    "line": "a los de otra nación,",
+                    "line": "verás que ellos abren su puerta y su corazón.",
                     "singTheSong": true
                 },
                 {
-                    "line": "verás que ellos abren",
-                    "singTheSong": true
-                },
-                {
-                    "line": "su puerta y su corazón.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Y tú te irás acercando",
-                    "singTheSong": true
-                },
-                {
-                    "line": "más y más a Jehová.",
+                    "line": "Y tú te irás acercando más y más a Jehová.",
                     "singTheSong": true
                 },
                 {
@@ -2661,14 +2497,14 @@ songsLyricsJson = `{
         {
             "title": "No corras más",
             "path": "../songs/No corras más.mp3",
-            "karaokePath": "..songs/karaoke/No corras más.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 27,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -2804,22 +2640,18 @@ songsLyricsJson = `{
         {
             "title": "Sigue mostrando hospitalidad",
             "path": "../songs/Sigue mostrando hospitalidad.mp3",
-            "karaokePath": "..songs/karaoke/Sigue mostrando hospitalidad.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 5
             },
             "lyrics": [
                 {
-                    "line": "Para convivir con tus hermanos,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "da lo que haya en tu mano.",
+                    "line": "Para convivir con tus hermanos, da lo que haya en tu mano.",
                     "singTheSong": true
                 },
                 {
@@ -2891,19 +2723,11 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Algunos pierden su hogar.",
+                    "line": "Algunos pierden su hogar. Debemos ayudar.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Debemos ayudar.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "De pronto hay calamidad.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "¿Nos importará?",
+                    "line": "De pronto hay calamidad. ¿Nos importará?",
                     "singTheSong": true
                 },
                 {
@@ -2936,37 +2760,29 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "Muestra sincero amor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "Muestra sincero amor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
         {
             "title": "Mil gracias, Jehová",
             "path": "../songs/Mil gracias, Jehová.mp3",
-            "karaokePath": "..songs/karaoke/Mil gracias, Jehová.mp3",
+            "karaokePath": ".",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 22,
+                "guess": 3
             },
             "lyrics": [
                 {
-                    "line": "Si voy a enfrentar",
-                    "singTheSong": true
-                },
-                {
-                    "line": "la adversidad,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "no estoy solo.",
+                    "line": "Si voy a enfrentar la adversidad, no estoy solo.",
                     "singTheSong": true
                 },
                 {
@@ -2974,11 +2790,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": " No hay ningún dolor",
-                    "singTheSong": true
-                },
-                {
-                    "line": "que escape a tu amor.",
+                    "line": " No hay ningún dolor que escape a tu amor.",
                     "singTheSong": true
                 },
                 {
@@ -2994,11 +2806,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Tú guardas mi corazón,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "pues yo no dejo de confiar en ti, y",
+                    "line": "Tú guardas mi corazón, pues yo no dejo de confiar en ti, y",
                     "singTheSong": true
                 },
                 {
@@ -3030,26 +2838,18 @@ songsLyricsJson = `{
         {
             "title": "Soy parte de tu nación",
             "path": "../songs/Soy parte de tu nación.mp3",
-            "karaokePath": "..songs/karaoke/Soy parte de tu nación.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 49,
+                "guess": 5
             },
             "lyrics": [
                 {
-                    "line": "Parece ser que los demás",
-                    "singTheSong": true
-                },
-                {
-                    "line": "la pasan bien, mas de verdad",
-                    "singTheSong": true
-                },
-                {
-                    "line": "no saben bien adónde van.",
+                    "line": "Parece ser que los demás la pasan bien, mas de verdad no saben bien adónde van.",
                     "singTheSong": true
                 },
                 {
@@ -3057,19 +2857,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "No hay dudas, pues sé bien quien soy,",
+                    "line": "No hay dudas, pues sé bien quien soy, de dónde soy y adónde voy.",
                     "singTheSong": true
                 },
                 {
-                    "line": "de dónde soy y adónde voy.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Van junto a mí los que en verdad",
-                    "singTheSong": true
-                },
-                {
-                    "line": "me hacen bien con su amistad.",
+                    "line": "Van junto a mí los que en verdad me hacen bien con su amistad.",
                     "singTheSong": true
                 },
                 {
@@ -3077,19 +2869,11 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Hay felicidad",
+                    "line": "Hay felicidad en mi corazón,",
                     "singTheSong": true
                 },
                 {
-                    "line": "en mi corazón,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "pues tú, oh, Jehová,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "me has dado el honor.",
+                    "line": "pues tú, oh, Jehová, me has dado el honor.",
                     "singTheSong": true
                 },
                 {
@@ -3097,35 +2881,19 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": " Muy claro está, lo puedo ver.",
+                    "line": "Muy claro está, lo puedo ver. Es esto lo que quiero hacer.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Es esto lo que quiero hacer.",
+                    "line": "La Biblia es mi guía, sí. Con gusto la voy a seguir.",
                     "singTheSong": true
                 },
                 {
-                    "line": "La Biblia es mi guía, sí.",
+                    "line": "Hay junto a mí una hermandad. Con ellos sirvo en unidad.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Con gusto la voy a seguir.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Hay junto a mí una hermandad.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Con ellos sirvo en unidad.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Regalos son que Dios me da,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "pues son amigos de verdad.",
+                    "line": "Regalos son que Dios me da, pues son amigos de verdad.",
                     "singTheSong": true
                 },
                 {
@@ -3157,66 +2925,38 @@ songsLyricsJson = `{
         {
             "title": "Mi decisión",
             "path": "../songs/Mi decisión.mp3",
-            "karaokePath": "..songs/karaoke/Mi decisión.mp3",
+            "karaokePath": "..songs/karaoke/Mi decision Karaoke.mp3",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 84,
+                "guess": 3
             },
             "lyrics": [
                 {
-                    "line": "Es tan confuso...",
+                    "line": "Es tan confuso... Hay guerra en mi interior.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Hay guerra en mi interior.",
+                    "line": "Se cierra mi cabeza, y yo me dejo llevar...",
                     "singTheSong": true
                 },
                 {
-                    "line": "Se cierra",
+                    "line": " El corazón nubla la visión.",
                     "singTheSong": true
                 },
                 {
-                    "line": "mi cabeza,",
+                    "line": "Ayúdame a entrar en razón y a obedecer tu voz, Jehová.",
                     "singTheSong": true
                 },
                 {
-                    "line": "y yo me dejo llevar...",
+                    "line": "Constante es la lucha y desesperado el corazón;",
                     "singTheSong": true
                 },
                 {
-                    "line": " El corazón",
-                    "singTheSong": true
-                },
-                {
-                    "line": "nubla la visión.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Ayúdame a entrar en razón",
-                    "singTheSong": true
-                },
-                {
-                    "line": "y a obedecer tu voz, Jehová.",
-                    "singTheSong": true
-                },
-                {
-                    "line": " Constante es la lucha y",
-                    "singTheSong": true
-                },
-                {
-                    "line": "desesperado el corazón;",
-                    "singTheSong": true
-                },
-                {
-                    "line": "me empuja a amar lo que hay que odiar,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "mas Jehová me ayudará.",
+                    "line": "me empuja a amar lo que hay que odiar, mas Jehová me ayudará.",
                     "singTheSong": true
                 },
                 {
@@ -3228,31 +2968,15 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Siempre en él voy a confiar;",
+                    "line": "Siempre en él voy a confiar; con amor me sostendrá.",
                     "singTheSong": true
                 },
                 {
-                    "line": "con amor me sostendrá.",
+                    "line": " Tu vida bien puedes construir si sabio eres al decidir.",
                     "singTheSong": true
                 },
                 {
-                    "line": " Tu vida bien puedes construir",
-                    "singTheSong": true
-                },
-                {
-                    "line": "si sabio eres al decidir.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Siempre será una lucha tenaz,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "pero tú lo lograrás",
-                    "singTheSong": true
-                },
-                {
-                    "line": "si no dejas a Jehová.",
+                    "line": "Siempre será una lucha tenaz, pero tú lo lograrás si no dejas a Jehová.",
                     "singTheSong": true
                 },
                 {
@@ -3276,14 +3000,14 @@ songsLyricsJson = `{
         {
             "title": "Hay que perdonar",
             "path": "../songs/Hay que perdonar.mp3",
-            "karaokePath": "..songs/karaoke/Hay que perdonar.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -3299,11 +3023,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "No dejaré, aun así,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "que te alejes tú de mí.",
+                    "line": "No dejaré, aun así, que te alejes tú de mí.",
                     "singTheSong": true
                 },
                 {
@@ -3319,11 +3039,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "hay que olvidar lo que",
-                    "singTheSong": true
-                },
-                {
-                    "line": "pasó, por favor.",
+                    "line": "hay que olvidar lo que pasó, por favor.",
                     "singTheSong": true
                 },
                 {
@@ -3423,14 +3139,14 @@ songsLyricsJson = `{
         {
             "title": "Muy cerca",
             "path": "../songs/Muy cerca.mp3",
-            "karaokePath": "..songs/karaoke/Muy cerca.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 71,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -3606,14 +3322,14 @@ songsLyricsJson = `{
         {
             "title": "Fuerte tú serás",
             "path": "../songs/Fuerte tú serás.mp3",
-            "karaokePath": "..songs/karaoke/Fuerte tú serás.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -3757,19 +3473,11 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Cada día más",
+                    "line": "Cada día más fuerte tú serás.",
                     "singTheSong": true
                 },
                 {
-                    "line": "fuerte tú serás.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "¡Te sorprenderá",
-                    "singTheSong": true
-                },
-                {
-                    "line": "cuánto lograrás!",
+                    "line": "¡Te sorprenderá cuánto lograrás!",
                     "singTheSong": true
                 },
                 {
@@ -3809,42 +3517,22 @@ songsLyricsJson = `{
         {
             "title": "Tu Palabra durará por siempre",
             "path": "../songs/Tu Palabra durará por siempre.mp3",
-            "karaokePath": "..songs/karaoke/Tu Palabra durará por siempre.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 81,
+                "guess": 5
             },
             "lyrics": [
                 {
-                    "line": "Con la fuerza del sol",
+                    "line": "Con la fuerza del sol ardía en su corazón el celo por anunciar a su prójimo tu amor.",
                     "singTheSong": true
                 },
                 {
-                    "line": "ardía en su corazón",
-                    "singTheSong": true
-                },
-                {
-                    "line": "el celo por anunciar",
-                    "singTheSong": true
-                },
-                {
-                    "line": "a su prójimo tu amor.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Claramente se ven",
-                    "singTheSong": true
-                },
-                {
-                    "line": "los frutos de su labor,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "pues en mis manos, Jehová,",
+                    "line": "Claramente se ven los frutos de su labor, pues en mis manos, Jehová,",
                     "singTheSong": true
                 },
                 {
@@ -3852,11 +3540,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Al ver su corazón,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "les diste tu aprobación",
+                    "line": "Al ver su corazón, les diste tu aprobación",
                     "singTheSong": true
                 },
                 {
@@ -3888,7 +3572,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": " Por más que intentaron borrar",
+                    "line": "Por más que intentaron borrar",
                     "singTheSong": true
                 },
                 {
@@ -3896,19 +3580,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "con lealtad e integridad",
+                    "line": "con lealtad e integridad defendido fue hasta el final.",
                     "singTheSong": true
                 },
                 {
-                    "line": "defendido fue hasta el final.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Y aunque su vida peligrara",
-                    "singTheSong": true
-                },
-                {
-                    "line": "ante la cruel persecución,",
+                    "line": "Y aunque su vida peligrara ante la cruel persecución,",
                     "singTheSong": true
                 },
                 {
@@ -3940,19 +3616,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": " Vas a santificar tu gran nombre",
+                    "line": "Vas a santificar tu gran nombre y cumplir tu voluntad.",
                     "singTheSong": true
                 },
                 {
-                    "line": "y cumplir tu voluntad.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Gloria a ti se dará",
-                    "singTheSong": true
-                },
-                {
-                    "line": "porque no fallarán",
+                    "line": "Gloria a ti se dará porque no fallarán",
                     "singTheSong": true
                 },
                 {
@@ -3988,14 +3656,14 @@ songsLyricsJson = `{
         {
             "title": "Oye a Jehová",
             "path": "../songs/Oye a Jehová.mp3",
-            "karaokePath": "..songs/karaoke/Oye a Jehová.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 38,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -4007,11 +3675,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Pero sí lograré contenerme",
-                    "singTheSong": true
-                },
-                {
-                    "line": "porque oraré a Jehová",
+                    "line": "Pero sí lograré contenerme porque oraré a Jehová",
                     "singTheSong": true
                 },
                 {
@@ -4171,14 +3835,14 @@ songsLyricsJson = `{
         {
             "title": "Mi futuro con Jehová",
             "path": "../songs/Mi futuro con Jehová.mp3",
-            "karaokePath": "..songs/karaoke/Mi futuro con Jehová.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 43,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -4319,21 +3983,21 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "Así yo podré construir mi futuro con él.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
         {
             "title": "Paso a paso",
             "path": "../songs/Paso a paso.mp3",
-            "karaokePath": "..songs/karaoke/Paso a paso.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 52,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -4393,11 +4057,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "¡primer día",
-                    "singTheSong": true
-                },
-                {
-                    "line": "de predicación!",
+                    "line": "¡primer día de predicación!",
                     "singTheSong": true
                 },
                 {
@@ -4501,11 +4161,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "cuánto logra mi fe",
-                    "singTheSong": true
-                },
-                {
-                    "line": "en ti, Jehová.",
+                    "line": "cuánto logra mi fe en ti, Jehová.",
                     "singTheSong": true
                 }
             ]
