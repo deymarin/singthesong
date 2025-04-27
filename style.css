@@ -1,0 +1,129 @@
+:root {
+    --font-title: 'sunset';
+  }
+
+@font-face {
+    font-family: 'sunset';
+    src: url('fonts/Sunset-Palace/SunsetPalace.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+body,
+html {
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("./img/background.png");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    height: 100%;
+    background-image: url("./img/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.title {
+    text-align: center;
+    font-size: 600%;
+    color: white;
+    font-family: var(--font-title);
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 15px 32px;
+    font-size: 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    border: none;
+    text-align: center;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transition-duration: 0.4s;
+    width: 15em;
+
+}
+
+button:hover {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+}
+
+.longer button{
+    width: 20em;
+}
+
+.sing-the-song {
+    top: 46%;
+}
+
+.song-theme {
+    top: 53%;
+}
+
+.song-word {
+    top: 60%;
+}
+
+.song-name {
+    top: 67%;
+}
+
+.next {
+    top: 70%;
+}
+
+.answer {
+    top: 78%;
+}
+
+.change {
+    top: 85%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+
+    .title{
+        font-size: 350%; 
+    }
+
+    
+  }
+
+audio {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}

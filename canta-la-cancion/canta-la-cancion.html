@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Canta la canción!!</title>
+  <link rel="stylesheet" href="../style.css" />
+
+</head>
+<body onload="singTheSong()">
+
+  <script src="/script.js" defer></script>
+
+  <br><br><br><br><br><br>
+  
+  <h1 class="title">Canta la cancion que dice:</h1>
+
+  <!-- <br> -->
+  <h1 id ="randomSong1"></h1>
+  <h1 id ="randomSong2"></h1>
+  <h1 id="timer">45s</h1>
+  <h1 id ="songTitle" hidden> Respuesta</h1>
+  <audio id="audio"  src="" controls hidden>
+  </audio>
+
+ <div class="longer">
+  <button class="next" onClick="singTheSong()">Siguiente</button>
+  <button class="answer" onClick="showAnswer()">Respuesta</button>
+  <button class="change">Cambiar categoria</button>
+</div>
+
+
+  <!-- <button onClick="randomSong()">Generar cancion</button> -->
+ 
+  
+</body>
+</html>

@@ -1,0 +1,874 @@
+{
+    "songsLyrics": [
+        {
+            "id": 1,
+            "title": "La vida más hermosa",
+            "path": "../songs/La vida mas hermosa.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 50,
+                "guess": 5
+            },
+            "lyrics": [
+                "El mundo quiere verme sufrir, pero yo seré feliz,",
+                "pues tengo amigos y una verdad para compartir.",
+                "Vivir pensando solo en mí no me da felicidad.",
+                "Servir a los demás es bonito de verdad.",
+                "¡Ven y verás!",
+                "Ah, es tanto lo que puedo dar, quiero ayudar a los demás.",
+                "¡Qué sensación tan preciosa!",
+                "Ah, es mucho más que un sueño, es una realidad:",
+                "Es hora de decir “¡Aquí estoy!”, hay tanto por hacer.",
+                "Lo he decidido, el día es hoy: me voy a ofrecer.",
+                "Ah, veré de lo que soy capaz, quiero ayudar a los demás.",
+                "¡Qué sensación tan preciosa!",
+                "Ah, es mucho más que un sueño, es una realidad maravillosa.",
+                "¡Mi corazón es tan feliz!",
+                "Quiero gritar muy dentro de mí que esto sí es vivir.",
+                "Ah, me hace sentir en libertad, hoy tengo amigos de verdad.",
+                "En realidad, lo tengo todo.",
+                "Ah, es mucho más que un sueño, prueba y vivirás la vida más hermosa."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Allí estaremos",
+            "path": "../songs/Alli estaremos.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 57,
+                "guess": 5
+            },
+            "lyrics": [
+                "Si los vientos y las lluvias te arrebatan parte de tu corazón,",
+                "Dios te cuidará, te consolará,  y tu hermandad te mostrará su afecto y compasión.",
+                "Allí estaremos con todo nuestro amor.",
+                "Te ayudaremos, oiremos tu clamor.",
+                "Mantén la fe, no hay que temer, vamos a estar allí.",
+                "No tengas miedo, estamos junto a ti.",
+                "Cuando pasa la tormenta, sale el Sol y llega un nuevo amanecer,",
+                "y tu hermandad pronto acudirá.",
+                "Con su calor, y con su amor te viene a socorrer.",
+                "No tengas miedo, pues somos tu hermandad mundial,",
+                "y te queremos, estamos junto a ti."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Si fueras tu conmigo",
+            "path": "../songs/Si fueras tu conmigo.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 30,
+                "guess": 5
+            },
+            "lyrics": [
+                "Yo sé que soy pequeño y muy sencillo, un par de piezas nada más.",
+                "Mas soy feliz al ver mi cometido. ¿Sabes cuál es?",
+                "¡Ven y te voy a mostrar!",
+                "Si fueras tú conmigo a los lugares que yo suelo visitar,",
+                "verías tanta gente allí...",
+                "¡No te imaginas cuántos rostros puedo yo observar!",
+                "¡Qué bello es oírlos decir que nunca antes vieron nada igual!",
+                "Hoy la verdad conocerán y por siempre me recordarán.",
+                "Voy de aquí para allá, tengo libros y algo más,",
+                "pues llevo el agua viva por doquier.",
+                "Con ingenio y color, llamo, sí, la atención.",
+                "Y siempre que haya gente sin dudarlo allí estaré.",
+                "¡No hay nada más grandioso!",
+                "La dicha llevo dentro de mi corazón.",
+                "Y alegría me daría que me lleves tú a la predicación."
+            ]
+        },
+        {
+            "id": 4,
+            "title": "¿Qué es lo más importante?",
+            "path": "../songs/Que es lo mas importante.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 9,
+                "guess": 5
+            },
+            "lyrics": [
+                "¿Qué es lo más importante,",
+                "lo que en verdad es de valor?",
+                "Solo un camino yo puedo elegir",
+                "y quiero que este sea el mejor.",
+                "A diario habrá decisiones que tomar.",
+                "Las consecuencias debo sopesar.",
+                "Mi vida nunca se repetirá.",
+                "Un paso en falso no quisiera dar.",
+                "Por eso, meditar es vital",
+                "y darle a cada cosa su lugar.",
+                "Para mí el más importante,",
+                "sin duda alguna, es Jehová.",
+                "Él lo mejor se merece, y yo...",
+                "... yo siempre lo mejor le daré."
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Fiel yo seré",
+            "path": "../songs/Fiel yo sere.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 61,
+                "guess": 4
+            },
+            "lyrics": [
+                "Padre, Jehová, el día llegó: es hora de ver de qué lado estoy.",
+                "Si tu hijo lo vivió y jamás titubeó, también puedo yo imitar su valor.",
+                "Yo sé que jamás me abandonarás. No importa la prueba, ahí estarás.",
+                "De ti me asiré y no te soltaré, pues mi fidelidad voy a mantener.",
+                "La persecución no me detendrá: es mi decisión servirte, Jehová.",
+                "A todos diré que tú eres mi Dios, pues tu nombre es un orgullo portar.",
+                "Fiel yo seré. No fallaré. Mi integridad nadie quebrantará.",
+                "Dame valor para aguantar. Con tu poder, me sostendrás.",
+                "Fiel voy a ser. A diario, Jehová, yo siento tu paz.",
+                "Me mueve a seguir hablando de ti.",
+                "No hay nadie en el cielo, la Tierra o el mar",
+                "que a mí me impida la vida alcanzar."
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Jehová, lo mejor es para ti",
+            "path": "../songs/Jehova, lo mejor es para ti.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 47,
+                "guess": 5
+            },
+            "lyrics": [
+                "Lo que yo poseo, Jehová me lo dio.",
+                "De todo es el Dueño real.",
+                "¿Qué puedo ofrecerle si quiero mostrar",
+                "que valoro su inmensa bondad?",
+                "Yo sé bien qué hacer y constante seré; eso es lo que haré.",
+                "Deseo cada día vivirlo para ti.",
+                "Llenarte de alegría a mí me hace feliz.",
+                "Jehová, te quiero honrar.",
+                "Yo siempre a ti lo mejor voy a dar.",
+                "Por tu gran amor, tú la vida me das.",
+                "Te agradezco con el corazón.",
+                "Mereces honor, y yo quiero encontrar",
+                "nuevas formas de honrarte, Señor.",
+                "Sé qué más puedo hacer y constante seré; eso es lo que haré."
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Mi vida entera te doy",
+            "path": "../songs/Mi vida entera te doy.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 41,
+                "guess": 5
+            },
+            "lyrics": [
+                "Hay tantas cosas que puedo hacer, tantos caminos que recorrer.",
+                "¿Cómo saber si es el tiempo ya de mi promesa hacer a Jehová?",
+                "Sé que bendices a aquellos que leales a ti son.",
+                "El paso nadie lo puede dar por mí; es mía la decisión.",
+                "Mi vida te quiero dedicar. Quiero decir: “Aquí estoy”.",
+                "Confío en ti; las fuerzas me darás.",
+                "Te entrego mi corazón. Mi vida entera te doy.",
+                "Quiero tu amigo llegar a ser, la vida eterna lograr tener.",
+                "Las pruebas veo con claridad: eres real, no hay por qué dudar.",
+                "La diversión no es lo único que debo yo buscar.",
+                "Mi juventud yo te quiero dar y así lealtad a ti demostrar."
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Superé la prueba",
+            "path": "../songs/Supere la prueba.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 51,
+                "guess": 3
+            },
+            "lyrics": [
+                "Un día más que hay que luchar,",
+                "más presiones que afrontar, pruebas por pasar.",
+                "Aunque ninguna sea igual, al final no importará, pues no me vencerá.",
+                "Las herramientas ya las tengo para cuando sea el momento.",
+                "Qué decir y cómo actuar, en mi mente tengo ya.",
+                "No siempre es fácil serte fiel, mas la oración me da poder.",
+                "La prueba pasaré si en ti confío yo.",
+                "La prueba pasaré. Tú serás mi protección.",
+                "Es imposible evitar que otros se quieran burlar. Sí, se burlarán.",
+                "No solo nos criticarán, además presionarán. Nos quieren ver fallar.",
+                "Mas con firmeza y con calma, la respuesta yo sabré dar",
+                "a quien quiera intentar empujarme hacia el mal.",
+                "Y orgulloso le diré: “¡Yo soy testigo de Jehová!”.",
+                "La prueba superé porque yo en ti confié.",
+                "La prueba superé. ¡Qué gusto! ¡Lo logré!"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Hoy es el día",
+            "path": "../songs/Hoy es el día.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 43,
+                "guess": 5
+            },
+            "lyrics": [
+                "Hoy la vida es cada vez más gris. Nos rodea la maldad.",
+                "El mensaje debes difundir, ya que el fin tan cerca está.",
+                "Tienes fuerzas; aprovéchalas para hablar del Gran Jehová",
+                "y de todas las promesas que muy pronto cumplirá.",
+                "El día es hoy; hay que predicar.",
+                "Con fe y sin temor, no te rendirás.",
+                "El día es hoy; hay que predicar.",
+                "Mantente activo hasta el final.",
+                "La gran obra que hacemos hoy nunca se repetirá.",
+                "Es por eso que con celo yo buscaré en cada hogar.",
+                "Al mirar atrás podrás decir que tu esfuerzo frutos dio.",
+                "Y Jehová jamás olvida lo que haces por amor.",
+                "Y no cejes en tu comisión, pues muy poco falta ya.",
+                "Nos espera el nuevo mundo y la vida de verdad."
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Sonreír",
+            "path": "../songs/Sonreír.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 45,
+                "guess": 5
+            },
+            "lyrics": [
+                "Si decimos mil palabras, tal vez nadie escuchará.",
+                "Los dibujos son hermosos, mas ¿cuánto durarán?",
+                "Aunque algo lograrías con un gesto de bondad,",
+                "al sonreír verás que mucho bien harás.",
+                "Sonreír es una curación que tú das a otro corazón.",
+                "Ora con fervor. Pide más valor.",
+                "Y, al sonreír, demuestra tu amor.",
+                "El mundo es tan frío, egoísta y sin piedad.",
+                "El amor desaparece; ya no existe la bondad.",
+                "La tristeza cada día en los rostros puedes ver.",
+                "Pero fe y una esperanza tú bien puedes ofrecer.",
+                "Tal vez te desanimes si ves que nadie ya",
+                "escucha el mensaje que le puede dar la paz.",
+                "Pero algunos corazones se podrían ablandar.",
+                "Intenta sonreír y así tal vez lo lograrás."
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Imaginarlo",
+            "path": "../songs/Imaginarlo.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 35,
+                "guess": 3
+            },
+            "lyrics": [
+                "Cuando estudio siempre encuentro los tesoros que Dios da.",
+                "Tomo el tiempo, investigo, nunca dejo de buscar.",
+                "Ya puedo imaginarlo, yo estoy ahí.",
+                "Puedo entender lo que Jehová quiere decir.",
+                "Imaginarlo y meditarlo. Así descubro en realidad",
+                "cómo aplicarlo, cómo vivirlo y ser cristiano de verdad.",
+                "Yo medito en aquellos que mostraron su lealtad,",
+                "y lo malo que ocurría a quien le falló a Jehová.",
+                "Al meditar en eso ya veo mejor",
+                "cómo yo puedo hacer feliz a mi Creador."
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Jehová te dice: “¡Vuelve a mí!”",
+            "path": "../songs/Jehová te dice “¡Vuelve a mí!”.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 60,
+                "guess": 5
+            },
+            "lyrics": [
+                "Parecería que fue ayer que de mí alguien te habló.",
+                "Tu interior cambió, pero me olvidó.",
+                "Aunque creías ser feliz, era todo una ilusión.",
+                "Y en tu corazón dices: “Volveré”.",
+                "Vuelve, por favor. Comienza una vez más.",
+                "Junto a ti estoy. Y siente la gran paz que te puedo dar.",
+                "Podrás ver que, en realidad, tú sí puedes regresar.",
+                "Yo seré la luz que te guiará.",
+                "Te espera aquí el calor de hogar.",
+                "La tormenta deja atrás. La felicidad recuperarás."
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Las asambleas nos hacen felices",
+            "path": "../songs/Las asambleas nos hacen felices.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 36,
+                "guess": 3
+            },
+            "lyrics": [
+                "Estamos juntos, trabajo a tu lado. Hoy anunciamos un día alegre.",
+                "El mundo es frío, no tiene piedad; aquí tenemos paz y unidad.",
+                "Mis hermanos, mis hermanas, todos me dan calor.",
+                "Y aunque apenas te conozco, tú ya tienes mi amor.",
+                "Soy una gota en un mar feliz a mi alrededor.",
+                "Observo rostros que no son conocidos; son mi familia, los amo yo.",
+                "Al saludarnos, le damos color a este hogar temporal.",
+                "Mi corazón recupera fuerzas. Es tan hermoso, voy a llorar.",
+                "Ven hacia mí. Estoy junto a ti.",
+                "Contigo yo caminaré a la eternidad."
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Te entrego lo mejor de mí",
+            "path": "../songs/Te entrego lo mejor de mí.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 40,
+                "guess": 5
+            },
+            "lyrics": [
+                "Nos diste el honor; un pequeñito a quien amar.",
+                "Él ya creció y decidió servirte a ti.",
+                "Qué dicha, sí. Hoy el trabajo fruto dio.",
+                "Nos duele el adiós, pero, al servir a Dios, sabemos que será feliz.",
+                "Tu mano lo protegerá por la eternidad.",
+                "Me llenas de tu paz, sé que tu amor lo guiará.",
+                "Te entrego lo mejor de mí; mi hijo, yo lo entrego a ti.",
+                "Mi niña llegó, es un regalo que nos das.",
+                "Con mucho amor, y aun dolor, se le cuidó, su fe creció.",
+                "Me enorgullece verla hoy."
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Ten calma al decidir",
+            "path": "../songs/Ten calma al decidir.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 44,
+                "guess": 4
+            },
+            "lyrics": [
+                "A veces me llego a preguntar con quién casarme.",
+                "Lo que yo sé bien es que no debo apresurarme.",
+                "Mi decisión me podría traer dicha o problemas,",
+                "y lo que el corazón me aconseja hoy puede causarme penas.",
+                "Piensa bien antes de elegir. Ten calma, sí.",
+                "La razón es mejor que el corazón.",
+                "Ve bien si ella es para ti, para ti. ",
+                "Sé sabio al buscar a quién amar.",
+                "He deseado encontrar a quien sea gentil, que me ame y proteja.",
+                "Pero todo irá mal si no uso la cabeza.",
+                "Yo quiero hacer lo que dice mi Dios. Quiero su guía.",
+                "Y yo voy a esperar a quien de verdad tenga a Jehová en su vida."
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Contemplo ese día",
+            "path": "../songs/Contemplo ese día.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 39,
+                "guess": 5
+            },
+            "lyrics": [
+                "¡Qué difícil es todo hoy! A veces duele el corazón.",
+                "Mas hoy ya puedo imaginar lo que muy pronto llegará.",
+                "Contemplo un mundo sin más dolor.",
+                "La vida es bella; el mal ya pasó.",
+                "Y al despertar dice mi corazón:",
+                "“Gracias, gracias. Lo que prometiste se cumplió”.",
+                "Los sonidos nunca oigo yo, y todo es gris alrededor.",
+                "Muy pronto claro escucharé y del color disfrutaré.",
+                "Contemplo un mundo sin más dolor.",
+                "La vida es bella; ya soy joven yo.",
+                "Y cada mañana feliz cantaré:",
+                "“Gracias, gracias por la vida y el amanecer”.",
+                "Hoy no quisiera esto para mí. Mas pronto yo correré feliz.",
+                "Y celebraremos la vida con canción. Cada día es aún mejor.",
+                "Rodeado de amigos feliz vivo yo.",
+                "“Gracias, gracias. Todo se cumplió”."
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Estoy al día",
+            "path": "../songs/Estoy al día.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 41,
+                "guess": 5
+            },
+            "lyrics": [
+                "La escena del mundo cambia. Yo la he visto pasar.",
+                "Ayúdame ahora a no quedar atrás.",
+                "Si nadie está en casa, o hay oposición,",
+                "encuentro otras formas de seguir con mi labor.",
+                "Al día estoy. ",
+                "Junto a los demás, con ellos voy.",
+                "El carro celestial es nuestra guía, y tras él yo al día estoy. Firme voy.",
+                "Espero cada día que las cosas salgan bien,",
+                "mas siempre ocurre algo que no debe ser.",
+                "Para remediarlo, yo no pierdo el control.",
+                "Recurro a las herramientas que nos ha dado Dios.",
+                "Tengo mayor bendición si me esfuerzo un poco más.",
+                "Si hay que cambiar, eso haré.",
+                "A mi Dios voy a agradar.",
+                "Lo que vendrá veo ya con toda claridad.",
+                "No más lágrimas al fin.",
+                "La verdad triunfará."
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Tú puedes dar el paso",
+            "path": "../songs/Tú puedes dar el paso.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 57,
+                "guess": 5
+            },
+            "lyrics": [
+                "Tal vez te has preguntado: “¿Lo podré lograr?”.",
+                "Lo has meditado. Estás orando a Jehová.",
+                "Tendrás que calcularlo y deberás estudiar.",
+                "Mas, si tú das el paso, mil bendiciones tendrás.",
+                "Tú puedes dar el paso, dejar tus miedos atrás.",
+                "Verás que al dar el paso un gran tesoro hallarás.",
+                "¡Oh! Da el paso. Ve a Macedonia a ayudar.",
+                "Si llevas las buenas nuevas a los de otra nación,",
+                "verás que ellos abren su puerta y su corazón.",
+                "Y tú te irás acercando más y más a Jehová.",
+                "Pues él será tu guía, será tu fuerza, a tu lado estará."
+            ]
+        },
+        {
+            "id": 19,
+            "title": "No corras más",
+            "path": "../songs/No corras más.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 27,
+                "guess": 5
+            },
+            "lyrics": [
+                "Sé feliz, mas sin correr.",
+                "No es fácil, mas eso debe ser.",
+                "Aquí no corras al jugar.",
+                "No es el momento. No es el lugar.",
+                "No corras más.",
+                "Toma el tiempo de pensar y el momento disfrutar.",
+                "No corras más.",
+                "Mucho hoy hay que hacer, con seriedad, pues es tu deber.",
+                "No olvidarás que también al hermano hay que tratar muy bien.",
+                "A las puertas hay que ir.",
+                "¿Estarán aquí? y ¿podrán salir?",
+                "Al caminar verás que habrá alguien por ahí que querrá escuchar."
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Sigue mostrando hospitalidad",
+            "path": "../songs/Sigue mostrando hospitalidad.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 41,
+                "guess": 5
+            },
+            "lyrics": [
+                "Para convivir con tus hermanos, da lo que haya en tu mano.",
+                "Tan solo es por Jehová que puedes recibirlo.",
+                "¿Quieres compartirlo?",
+                "Sigue mostrando hospitalidad.",
+                "Sigue imitando a Dios.",
+                "Siempre haz el bien y sin mirar a quién.",
+                "Muestra sincero amor.",
+                "Tenemos un hogar porque Jehová nos lo ha dado.",
+                "Por eso, hospedar es un gran regalo.",
+                "Sigamos el ejemplo de los generosos.",
+                "Tendremos gozo.",
+                "Algunos pierden su hogar. Debemos ayudar.",
+                "De pronto hay calamidad. ¿Nos importará?",
+                "¿Abrirás tu puerta y ofrecerás tu hogar?",
+                "Eso es amar."
+            ]
+        },
+        {
+            "id": 21,
+            "title": "Mil gracias, Jehová",
+            "path": "../songs/Mil gracias, Jehová.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 22,
+                "guess": 3
+            },
+            "lyrics": [
+                "Si voy a enfrentar la adversidad, no estoy solo.",
+                "Mil gracias, Jehová.",
+                "No hay ningún dolor que escape a tu amor.",
+                "Tú me escuchas.",
+                "Mil gracias, Jehová.",
+                "Mi mente no cede a la ansiedad.",
+                "Tú guardas mi corazón, pues yo no dejo de confiar en ti, y",
+                "tú me das la paz.",
+                "Eres el Dios leal. Me sostienes.",
+                "Mil gracias, Jehová.",
+                "A los fieles no abandonarás.",
+                "Eres bueno. Mil gracias, Jehová."
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Soy parte de tu nación",
+            "path": "../songs/Soy parte de tu nación.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 49,
+                "guess": 5
+            },
+            "lyrics": [
+                "Parece ser que los demás la pasan bien, mas de verdad no saben bien adónde van.",
+                "Yo sé qué quiero en realidad.",
+                "No hay dudas, pues sé bien quien soy, de dónde soy y adónde voy.",
+                "Van junto a mí los que en verdad me hacen bien con su amistad.",
+                "Hay felicidad en mi corazón, ",
+                "pues tú, oh, Jehová, me has dado el honor.",
+                "Soy parte de tu nación.",
+                "Muy claro está, lo puedo ver. Es esto lo que quiero hacer.",
+                "La Biblia es mi guía, sí. Con gusto la voy a seguir.",
+                "Hay junto a mí una hermandad. Con ellos sirvo en unidad.",
+                "Regalos son que Dios me da, pues son amigos de verdad."
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Mi decisión",
+            "path": "../songs/Mi decisión.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 84,
+                "guess": 3
+            },
+            "lyrics": [
+                "Es tan confuso... Hay guerra en mi interior.",
+                "Se cierra mi cabeza, y yo me dejo llevar...",
+                "El corazón nubla la visión.",
+                "Ayúdame a entrar en razón y a obedecer tu voz, Jehová.",
+                "Constante es la lucha y desesperado el corazón;",
+                "me empuja a amar lo que hay que odiar, mas Jehová me ayudará.",
+                "Yo sé cuánto me ama. No quiere perderme.",
+                "Siempre en él voy a confiar; con amor me sostendrá.",
+                "Tu vida bien puedes construir si sabio eres al decidir.",
+                "Siempre será una lucha tenaz, pero tú lo lograrás si no dejas a Jehová.",
+                "¡Qué feliz me siento hoy!",
+                "Fue buena mi decisión.",
+                "Aunque duro pareció, a mi lado estuvo Jehová."
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Hay que perdonar",
+            "path": "../songs/Hay que perdonar.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 41,
+                "guess": 5
+            },
+            "lyrics": [
+                "Dar ayuda tú te propones.",
+                "Tienes las mejores intenciones, mas tus palabras son como un puñal.",
+                "No dejaré, aun así, que te alejes tú de mí.",
+                "Hay que lograr la paz, tú y yo.",
+                "Antes de que hoy se ponga el sol,",
+                "hay que olvidar lo que pasó, por favor.",
+                "Yo siempre a ti te amaré.",
+                "Aunque los dos el bien procuramos, el enojo puede lastimarnos.",
+                "Pero es tan fácil perdonar.",
+                "Al ver tu lealtad y amor, el enojo se acabó.",
+                "Ya nada romperá el lazo que hoy nos une en hermandad,",
+                "pues el amor destruye al rencor.",
+                "Siempre tú mi hermano serás."
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Muy cerca",
+            "path": "../songs/Muy cerca.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 71,
+                "guess": 3
+            },
+            "lyrics": [
+                "Con el canto de las aves y la brisa matinal te preparas con anhelo.",
+                "Tus amados van a regresar.",
+                "El día ha llegado. La emoción te hace vibrar.",
+                "Este Paraíso ya estaba muy muy cerca.",
+                "Cada día es tan hermoso.",
+                "Te deleita escuchar como el agua cristalina los molinos mueve sin parar.",
+                "Los campos muy dorados; la cosecha viene ya.",
+                "Este mundo tan feliz estaba muy muy cerca.",
+                "Ahora estás viviendo ya la vida que esperaste ayer.",
+                "No hay llanto ni oscuridad.",
+                "Hoy eres joven otra vez.",
+                "Todo el mundo canta alegre.",
+                "Perfumado el aire está.",
+                "Tu gran sueño hoy se cumple.",
+                "Y ya nada nada faltará.",
+                "Damos gracias a Jehová Dios por su tierno amor leal.",
+                "Este mundo sin final estaba muy muy cerca.",
+                "Por tanto tiempo te extrañé.",
+                "Es casi un sueño verte hoy.",
+                "Te tengo aquí, ya junto a mí.",
+                "Rebosa, sí, mi corazón.",
+                "Cerca, sí, muy cerca este Paraíso está, pues Jehová lo ha prometido.",
+                "Su promesa nunca fallará.",
+                "Nada va a desanimarme, pues yo sé lo que vendrá.",
+                "Y lo espero sin dudar.",
+                "Viene pronto, sí, muy pronto."
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Fuerte tú serás",
+            "path": "../songs/Fuerte tú serás.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 41,
+                "guess": 5
+            },
+            "lyrics": [
+                "De pequeñitos, con ingenio y amor, cosas profundas mis papás nos enseñaron.",
+                "Siempre leíamos al ir a dormir: bella costumbre que en mi mente ellos grabaron.",
+                "Y hoy, tal como ayer, mi Biblia yo voy a leer.",
+                "Es un hábito que quiero conservar porque me ayuda a ser fiel.",
+                "Porque al estudiar... plantado junto a las corrientes estarás.",
+                "Fuerte tú serás... tal como un árbol nunca te marchitarás.",
+                "Porque al estudiar... muy cerca de Jehová tú te sentirás.",
+                "Fuerte tú serás... ante cualquier tormenta en pie te mantendrás.",
+                "¿Qué voy a hacer si hay una oportunidad",
+                "para explicar por qué yo soy tan diferente?",
+                "Con valentía la podré aprovechar, porque estudiar se ha vuelto parte de mi vida.",
+                "¡Qué tesoro tengo aquí! ",
+                "Yo lo quiero compartir con alguien como yo que necesite ayuda y amor.",
+                "Cada día más fuerte tú serás.",
+                "¡Te sorprenderá cuánto lograrás!"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Tu Palabra durará por siempre",
+            "path": "../songs/Tu Palabra durará por siempre.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 81,
+                "guess": 5
+            },
+            "lyrics": [
+                "Con la fuerza del sol ardía en su corazón el celo por anunciar a su prójimo tu amor.",
+                "Claramente se ven los frutos de su labor, pues en mis manos, Jehová, este tesoro tengo yo hoy.",
+                "Al ver su corazón, les diste tu aprobación para escribir, también, traducir cada letra sin excepción.",
+                "Es tu Palabra, Jehová, y por siempre durará.",
+                "Su mensaje de paz ilumina mi andar.",
+                "Mi tesoro por siempre será.",
+                "Por más que intentaron borrar tu Libro, oh, Jehová, con lealtad e integridad defendido fue hasta el final.",
+                "Y aunque su vida peligrara ante la cruel persecución, tus leales, Jehová, no cedieron jamás.",
+                "¡Cumplieron con su comisión!",
+                "Vas a santificar tu gran nombre y cumplir tu voluntad.",
+                "Gloria a ti se dará porque no fallarán tus promesas nunca jamás."
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Oye a Jehová",
+            "path": "../songs/Oye a Jehová.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 38,
+                "guess": 4
+            },
+            "lyrics": [
+                "¡Qué difícil volver a enfrentar los ataques de aquellos que buscan pelear!",
+                "Pero sí lograré contenerme porque oraré a Jehová y él me oirá.",
+                "No te rindas jamás, pues Jehová es tu amigo.",
+                "Busca su dirección y hazle una oración.",
+                "La salida verás, pues Jehová te la mostrará; de la mano te llevará.",
+                "Y si escuchas su voz, muy feliz lo harás.",
+                "¡Oye a Jehová!",
+                "¡Qué impotente me siento al mirar los problemas que día a día son más!",
+                "Pero no perderé mi alegría: sé que a otros puedo ayudar a sonreír.",
+                "Sin dudar, sin temer, en Jehová tú confía.",
+                "Fuerzas él te dará. Y sabrás que a tu lado está.",
+                "Hoy, tal como ayer, lo verás."
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Mi futuro con Jehová",
+            "path": "../songs/Mi futuro con Jehová.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 43,
+                "guess": 3
+            },
+            "lyrics": [
+                "Mil puertas hay frente a mí, pero no todas puedo abrir.",
+                "Quisiera ver el final y saber qué camino elegir.",
+                "Hay algo que sé con toda seguridad:",
+                "¡no hay nada mejor que servir a Jehová!",
+                "Sin duda voy a encontrar el rumbo correcto.",
+                "Pondré para mí un buen fundamento,",
+                "si busco agradar a Jehová a cada paso que dé.",
+                "Quiero alegrar a Jehová en todo momento.",
+                "Le voy a entregar mi vida y mi tiempo.",
+                "Así yo podré construir mi futuro con él.",
+                "Y si llegara a pensar en caminar a otro lugar,",
+                "tomar un rumbo que sé que me puede alejar de Jehová,",
+                "voy a recordar que prometí a mi Creador",
+                "que suyos son mi vida y mi corazón.",
+                "Construyo un futuro que eterno será.",
+                "Mi arquitecto es Jehová; él me va a ayudar.",
+                "Por siempre a Jehová yo le quiero servir",
+                "porque así cada día seré muy feliz."
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Paso a paso",
+            "path": "../songs/Paso a paso.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 52,
+                "guess": 5
+            },
+            "lyrics": []
+        },
+        {
+            "id": 31,
+            "title": "",
+            "path": "../songs/____________.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 41,
+                "guess": 5
+            },
+            "lyrics": []
+        },
+        {
+            "id": 32,
+            "title": "",
+            "path": "../songs/____________.mp3",
+            "category": {
+                "singTheSong": false,
+                "guessTheSong": false
+            },
+            "seconds": {
+                "chorus": 41,
+                "guess": 5
+            },
+            "lyrics": []
+        }
+    ]
+}
