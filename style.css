@@ -108,9 +108,10 @@ h1 {
     font-family: 'Segoe UI', sans-serif;
 }
 
+/*
 @media screen and (max-width: 800px) {
     .left, .main, .right {
-      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller 
     }
 
     .title{
@@ -119,7 +120,35 @@ h1 {
 
     
   }
+*/
 
+/*Pequeña*/
+@media only screen and (max-width: 600px) {
+
+    .title{
+        font-size: 200%; 
+    }
+
+  }
+  /*Mediana*/
+  @media only screen and (min-width: 600px) {
+
+
+    .title{
+        font-size: 350%; 
+    }
+  }
+  /*Grande*/
+  @media only screen and (min-width: 768px) {
+
+
+    .title{
+        font-size: 600%; 
+    }
+  }
+
+
+ 
 audio {
     position: absolute;
     top: 60%;
