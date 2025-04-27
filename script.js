@@ -4169,14 +4169,14 @@ songsLyricsJson = `{
         {
             "title": "Lo mejor",
             "path": "../songs/Lo mejor.mp3",
-            "karaokePath": "..songs/karaoke/Lo mejor.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 88,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -4294,8 +4294,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 48,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -4427,14 +4427,14 @@ songsLyricsJson = `{
         {
             "title": "Tus obras, Gran Jehová",
             "path": "../songs/Tus obras, Gran Jehová.mp3",
-            "karaokePath": "..songs/karaoke/Tus obras, Gran Jehová.mp3",
+            "karaokePath": "",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 78,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -4560,8 +4560,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 40,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -4707,8 +4707,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 38,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -4962,8 +4962,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 37,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -5241,8 +5241,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 37,
+                "guess": 1
             },
             "lyrics": [
                 {
@@ -5408,8 +5408,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 49,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -5539,8 +5539,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -5742,8 +5742,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 48,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -5909,8 +5909,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 37,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -6120,8 +6120,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 70,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -6323,8 +6323,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 76,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -6474,8 +6474,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 67,
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -6645,8 +6645,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 60,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -6812,8 +6812,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 46,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -7043,8 +7043,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 78,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -7148,19 +7148,11 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Haz una oración,",
+                    "line": "Haz una oración, Jehová te dará fuerzas para aguantar.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Jehová te dará fuerzas para aguantar.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Abre tu corazón,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "que en mí tendrás un amigo.",
+                    "line": "Abre tu corazón, que en mí tendrás un amigo.",
                     "singTheSong": true
                 },
                 {
@@ -7176,19 +7168,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Seguiré",
+                    "line": "Seguiré a tu lado para renovar tu fe.",
                     "singTheSong": true
                 },
                 {
-                    "line": "a tu lado para renovar tu fe.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Jamás te fallaré,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "yo te ayudaré.",
+                    "line": "Jamás te fallaré, yo te ayudaré.",
                     "singTheSong": true
                 },
                 {
@@ -7204,19 +7188,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Seguiré",
+                    "line": "Seguiré a tu lado para darte mi amistad.",
                     "singTheSong": true
                 },
                 {
-                    "line": "a tu lado para darte mi amistad.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Lo digo de verdad:",
-                    "singTheSong": true
-                },
-                {
-                    "line": "yo te ayudaré.",
+                    "line": "Lo digo de verdad: yo te ayudaré.",
                     "singTheSong": true
                 }
             ]
@@ -7230,8 +7206,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 48,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -7413,8 +7389,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 57,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -7608,8 +7584,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 74,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -7739,8 +7715,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 45,
+                "guess": 1
             },
             "lyrics": [
                 {
@@ -7962,8 +7938,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -8165,8 +8141,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 45,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -8396,8 +8372,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 45,
+                "guess": 1
             },
             "lyrics": [
                 {
@@ -8635,8 +8611,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 56,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -8700,11 +8676,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "aguanta un poco más,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "más,",
+                    "line": "aguanta un poco más, más,",
                     "singTheSong": true
                 },
                 {
@@ -8764,11 +8736,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "aguanta un poco más,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "más,",
+                    "line": "aguanta un poco más, más,",
                     "singTheSong": true
                 },
                 {
@@ -8838,8 +8806,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 40,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -8919,11 +8887,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Me sostendrá,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "me defenderá,",
+                    "line": "Me sostendrá, me defenderá,",
                     "singTheSong": true
                 },
                 {
@@ -8987,11 +8951,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Jehová jamás te fallará,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "jamás, jamás.",
+                    "line": "Jehová jamás te fallará, jamás, jamás.",
                     "singTheSong": true
                 },
                 {
@@ -9015,11 +8975,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Te sostendrá,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "te defenderá,",
+                    "line": "Te sostendrá, te defenderá,",
                     "singTheSong": true
                 },
                 {
@@ -9031,11 +8987,7 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Nos da las",
-                    "singTheSong": true
-                },
-                {
-                    "line": "fuerzas y la seguridad,",
+                    "line": "Nos da las fuerzas y la seguridad,",
                     "singTheSong": true
                 },
                 {
@@ -9059,20 +9011,12 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Jehová jamás nos fallará,",
+                    "line": "Jehová jamás nos fallará, jamás, jamás.",
                     "singTheSong": true
                 },
                 {
-                    "line": "jamás, jamás.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Jehová jamás nos fallará,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "jamás, jamás.",
-                    "singTheSong": true
+                    "line": "Jehová jamás nos fallará, jamás, jamás.",
+                    "singTheSong": false
                 },
                 {
                     "line": "Jehová jamás nos fallará.",
@@ -9089,8 +9033,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 58,
+                "guess": 1
             },
             "lyrics": [
                 {
@@ -9275,11 +9219,11 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "la vida de verdad,",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "la vida de verdad",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -9292,8 +9236,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 95,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -9333,11 +9277,7 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Por darnos a Jesús,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "de corazón",
+                    "line": "Por darnos a Jesús, de corazón",
                     "singTheSong": true
                 },
                 {
@@ -9345,11 +9285,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Por darnos salvación,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "de corazón",
+                    "line": "Por darnos salvación, de corazón",
                     "singTheSong": true
                 },
                 {
@@ -9381,11 +9317,7 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Por darnos a Jesús,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "de corazón",
+                    "line": "Por darnos a Jesús, de corazón",
                     "singTheSong": true
                 },
                 {
@@ -9393,11 +9325,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Por darnos salvación,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "de corazón",
+                    "line": "Por darnos salvación, de corazón",
                     "singTheSong": true
                 },
                 {
@@ -9413,11 +9341,7 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Por darnos a Jesús,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "de corazón",
+                    "line": "Por darnos a Jesús, de corazón",
                     "singTheSong": true
                 },
                 {
@@ -9425,11 +9349,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Por darnos salvación,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "de corazón",
+                    "line": "Por darnos salvación, de corazón",
                     "singTheSong": true
                 },
                 {
@@ -9438,7 +9358,7 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "te entregaré mi amor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -9451,8 +9371,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 57,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -9633,11 +9553,11 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "No fallará.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "No fallará.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -9650,8 +9570,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 47,
+                "guess": 1
             },
             "lyrics": [
                 {
@@ -9813,8 +9733,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 42,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -9968,8 +9888,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 46,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -10187,8 +10107,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 54,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -10374,8 +10294,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -10633,8 +10553,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 54,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -10784,56 +10704,32 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 77,
+                "guess": 2
             },
             "lyrics": [
                 {
-                    "line": "Eres tú,",
+                    "line": "Eres tú, la dueña de mi amor,",
                     "singTheSong": true
                 },
                 {
-                    "line": "la dueña de mi amor,",
+                    "line": "solo tú, mi compañera.",
                     "singTheSong": true
                 },
                 {
-                    "line": "solo tú,",
+                    "line": "Es tan hermoso ver tu fe y tu candidez.",
                     "singTheSong": true
                 },
                 {
-                    "line": "mi compañera.",
+                    "line": "Tenerte aquí me hace tan feliz.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Es tan hermoso ver",
+                    "line": "Tus ojos son mi luz, no hay nadie como tú.",
                     "singTheSong": true
                 },
                 {
-                    "line": "tu fe y tu candidez.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Tenerte aquí",
-                    "singTheSong": true
-                },
-                {
-                    "line": "me hace tan feliz.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Tus ojos son mi luz,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "no hay nadie como tú.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Te doy mi corazón,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "mi amor sin condición.",
+                    "line": "Te doy mi corazón, mi amor sin condición.",
                     "singTheSong": true
                 },
                 {
@@ -10857,19 +10753,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Eres para mí",
+                    "line": "Eres para mí mi orgullo y mi primor.",
                     "singTheSong": true
                 },
                 {
-                    "line": "mi orgullo y mi primor.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Nomás a ti",
-                    "singTheSong": true
-                },
-                {
-                    "line": "daré mi eterno amor.",
+                    "line": "Nomás a ti daré mi eterno amor.",
                     "singTheSong": true
                 },
                 {
@@ -10926,11 +10814,11 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "mi dulce amor,",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "mi amor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -10943,8 +10831,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 56,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -11110,8 +10998,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 45,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -11240,27 +11128,27 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "¡Siempre feliz! ¡Siempre feliz!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Siempre feliz! ¡Siempre feliz!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Siempre feliz! ¡Siempre feliz!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Siempre feliz! ¡Siempre feliz!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Siempre feliz! ¡Siempre feliz!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Siempre feliz!",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -11273,8 +11161,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 73,
+                "guess": 7
             },
             "lyrics": [
                 {
@@ -11440,8 +11328,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 42,
+                "guess": 1
             },
             "lyrics": [
                 {
@@ -11639,8 +11527,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 42,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -11858,8 +11746,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 55,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -12045,8 +11933,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 28,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -12208,8 +12096,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 47,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -12395,8 +12283,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 75,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -12518,8 +12406,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 70,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -12677,8 +12565,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 75,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -12888,8 +12776,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 36,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -13035,8 +12923,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 45,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -13198,8 +13086,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -13421,8 +13309,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 40,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -13556,8 +13444,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 37,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -13747,8 +13635,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 54,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -13902,8 +13790,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 50,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -14041,8 +13929,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 33,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -14196,40 +14084,24 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 60,
+                "guess": 2
             },
             "lyrics": [
                 {
-                    "line": "Nunca miró",
+                    "line": "Nunca miró a su alrededor.",
                     "singTheSong": true
                 },
                 {
-                    "line": "a su alrededor.",
+                    "line": "Solo echó dos moneditas de poco valor.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Solo echó",
+                    "line": "Y los demás daban mucho, mucho más.",
                     "singTheSong": true
                 },
                 {
-                    "line": "dos moneditas de poco valor.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Y los demás",
-                    "singTheSong": true
-                },
-                {
-                    "line": "daban mucho, mucho más.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Se sentía igual",
-                    "singTheSong": true
-                },
-                {
-                    "line": "que una gota de agua en el mar.",
+                    "line": "Se sentía igual que una gota de agua en el mar.",
                     "singTheSong": true
                 },
                 {
@@ -14273,27 +14145,15 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Tenía vigor,",
+                    "line": "Tenía vigor, plena juventud y buena salud.",
                     "singTheSong": true
                 },
                 {
-                    "line": "plena juventud y buena salud.",
+                    "line": "Las deja caer, apenas se oye un rumor,",
                     "singTheSong": true
                 },
                 {
-                    "line": "Las deja caer,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "apenas se oye un rumor,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "pero para Dios",
-                    "singTheSong": true
-                },
-                {
-                    "line": "el ruido es ensordecedor.",
+                    "line": "pero para Dios el ruido es ensordecedor.",
                     "singTheSong": true
                 },
                 {
@@ -14391,8 +14251,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 40,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -14602,8 +14462,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 48,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -14643,19 +14503,11 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "¡Qué milagro",
+                    "line": "¡Qué milagro de Jehová!",
                     "singTheSong": true
                 },
                 {
-                    "line": "de Jehová!",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Es un sueño",
-                    "singTheSong": true
-                },
-                {
-                    "line": "que se hace realidad:",
+                    "line": "Es un sueño que se hace realidad:",
                     "singTheSong": true
                 },
                 {
@@ -14679,11 +14531,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Únete a la canción,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "hay un solo corazón,",
+                    "line": "Únete a la canción, hay un solo corazón,",
                     "singTheSong": true
                 },
                 {
@@ -14699,19 +14547,11 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "¡Qué milagro",
+                    "line": "¡Qué milagro de Jehová!",
                     "singTheSong": true
                 },
                 {
-                    "line": "de Jehová!",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Es un sueño",
-                    "singTheSong": true
-                },
-                {
-                    "line": "que se hace realidad:",
+                    "line": "Es un sueño que se hace realidad:",
                     "singTheSong": true
                 },
                 {
@@ -14723,19 +14563,11 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "El Príncipe de Paz",
+                    "line": "El Príncipe de Paz —muy pronto lo verás—",
                     "singTheSong": true
                 },
                 {
-                    "line": "—muy pronto lo verás—",
-                    "singTheSong": true
-                },
-                {
-                    "line": "dará libertad a la humanidad",
-                    "singTheSong": true
-                },
-                {
-                    "line": "bajo la justa ley",
+                    "line": "dará libertad a la humanidad bajo la justa ley",
                     "singTheSong": true
                 },
                 {
@@ -14747,44 +14579,28 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "¡Qué milagro",
-                    "singTheSong": true
+                    "line": "¡Qué milagro de Jehová!",
+                    "singTheSong": false
                 },
                 {
-                    "line": "de Jehová!",
-                    "singTheSong": true
+                    "line": "Es un sueño que se hace realidad...",
+                    "singTheSong": false
                 },
                 {
-                    "line": "Es un sueño",
-                    "singTheSong": true
+                    "line": "¡Qué milagro de Jehová!",
+                    "singTheSong": false
                 },
                 {
-                    "line": "que se hace realidad...",
-                    "singTheSong": true
-                },
-                {
-                    "line": "¡Qué milagro",
-                    "singTheSong": true
-                },
-                {
-                    "line": "de Jehová!",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Es un sueño",
-                    "singTheSong": true
-                },
-                {
-                    "line": "que se hace realidad:",
-                    "singTheSong": true
+                    "line": "Es un sueño que se hace realidad:",
+                    "singTheSong": false
                 },
                 {
                     "line": "por fin vivir en paz.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡La paz universal!",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -14797,40 +14613,24 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 70,
+                "guess": 4
             },
             "lyrics": [
                 {
-                    "line": "Qué cerca está el final,",
+                    "line": "Qué cerca está el final, qué clara está la señal.",
                     "singTheSong": true
                 },
                 {
-                    "line": "qué clara está la señal.",
+                    "line": "El tiempo se va, ¿qué va a pasar? Millones morirán.",
                     "singTheSong": true
                 },
                 {
-                    "line": "El tiempo se va, ¿qué va a pasar?",
+                    "line": "Tenerles compasión me nace del corazón.",
                     "singTheSong": true
                 },
                 {
-                    "line": "Millones morirán.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Tenerles compasión",
-                    "singTheSong": true
-                },
-                {
-                    "line": "me nace del corazón.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "No es momento de dudar, temer,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "es hora de hablar.",
+                    "line": "No es momento de dudar, temer, es hora de hablar.",
                     "singTheSong": true
                 },
                 {
@@ -14850,27 +14650,15 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Esta luz que brilla en mí",
+                    "line": "Esta luz que brilla en mí la debo compartir.",
                     "singTheSong": true
                 },
                 {
-                    "line": "la debo compartir.",
+                    "line": "Que brille igual que el sol, ¡igual que el sol!",
                     "singTheSong": true
                 },
                 {
-                    "line": "Que brille igual que el sol,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "¡igual que el sol!",
-                    "singTheSong": true
-                },
-                {
-                    "line": "Se agota el tiempo ya,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "no sé cuánto quedará",
+                    "line": "Se agota el tiempo ya, no sé cuánto quedará",
                     "singTheSong": true
                 },
                 {
@@ -14959,15 +14747,15 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "¡igual que el sol!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Igual que el sol!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Igual que el sol!",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -14980,8 +14768,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 1
             },
             "lyrics": [
                 {
@@ -15034,11 +14822,11 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "¡Vivir mi fe!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Vivir mi fe!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "Ahora sé que el de siempre intenta que confunda el bien y el mal.",
@@ -15090,11 +14878,11 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "¡Vivir mi fe!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Vivir mi fe!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "PUENTE",
@@ -15142,23 +14930,23 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "¡Vivir mi fe!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Vivir mi fe!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Vivir mi fe!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Vivir mi fe!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Vivir mi fe!",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -15171,8 +14959,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 41,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -15290,8 +15078,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 43,
+                "guess": 1
             },
             "lyrics": [
                 {
@@ -15469,8 +15257,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 57,
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -15478,19 +15266,11 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "Busquen un bebé,",
+                    "line": "Busquen un bebé, un recién nacido en Belén.",
                     "singTheSong": true
                 },
                 {
-                    "line": "un recién nacido en Belén.",
-                    "singTheSong": true
-                },
-                {
-                    "line": "¡Es el Salvador,",
-                    "singTheSong": true
-                },
-                {
-                    "line": "el Cristo, el Señor!",
+                    "line": "¡Es el Salvador, el Cristo, el Señor!",
                     "singTheSong": true
                 },
                 {
@@ -15620,8 +15400,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 33,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -15702,7 +15482,7 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "Stop al estrés.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "ESTRIBILLO",
@@ -15759,8 +15539,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 34,
+                "guess": 1
             },
             "lyrics": [
                 {
@@ -15958,8 +15738,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 44,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -16133,8 +15913,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 50,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -16264,8 +16044,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 47,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -16277,11 +16057,7 @@ songsLyricsJson = `{
                     "singTheSong": true
                 },
                 {
-                    "line": "De corazón le pido a Dios:",
-                    "singTheSong": true
-                },
-                {
-                    "line": "“¡Ayúdame!”.",
+                    "line": "De corazón le pido a Dios: “¡Ayúdame!”.",
                     "singTheSong": true
                 },
                 {
@@ -16293,11 +16069,7 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Tu poder",
-                    "singTheSong": true
-                },
-                {
-                    "line": "va más allá de lo normal.",
+                    "line": "Tu poder va más allá de lo normal.",
                     "singTheSong": true
                 },
                 {
@@ -16345,11 +16117,7 @@ songsLyricsJson = `{
                     "singTheSong": false
                 },
                 {
-                    "line": "Tu poder",
-                    "singTheSong": true
-                },
-                {
-                    "line": "va más allá de lo normal.",
+                    "line": "Tu poder va más allá de lo normal.",
                     "singTheSong": true
                 },
                 {
@@ -16402,11 +16170,11 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "¡Me elevas con tu poder!",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "¡Me elevas con tu poder!",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -16419,8 +16187,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 68,
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -16602,8 +16370,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 44,
+                "guess": 1
             },
             "lyrics": [
                 {
@@ -16785,8 +16553,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 38,
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -16847,7 +16615,7 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "por puro amor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "Me recuerda que las pruebas un día acabarán,",
@@ -16907,7 +16675,7 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "por puro amor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 },
                 {
                     "line": "PUENTE",
@@ -16987,7 +16755,7 @@ songsLyricsJson = `{
                 },
                 {
                     "line": "por puro amor.",
-                    "singTheSong": true
+                    "singTheSong": false
                 }
             ]
         },
@@ -17000,8 +16768,8 @@ songsLyricsJson = `{
                 "guessTheSong": false
             },
             "seconds": {
-                "chorus": 0,
-                "guess": 0
+                "chorus": 80,
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -17196,6 +16964,7 @@ function singTheSong() {
     document.getElementById("songTitle").hidden = true;
     document.getElementById("randomSong1").hidden = false;
     document.getElementById("randomSong2").hidden = false;
+    document.getElementById("randomSong3").hidden = false;
     document.getElementById("timer").hidden = false;
     pauseAudio();
     
@@ -17225,16 +16994,18 @@ function singTheSong() {
     console.log("lines lenght" + songsLyrcisPartLenght)
 
 
-    const randomNumberSongLyricsPart = random((songsLyrcisPartLenght - 1) - 2); //estaba - 3
+    const randomNumberSongLyricsPart = random((songsLyrcisPartLenght - 1) - 3); //estaba - 3
 
     //randomGeneratedSongPart1 = songsLyrics[randomNumberSongLyrics].lyrics[randomNumberSongLyricsPart]
     //randomGeneratedSongPart2 = songsLyrics[randomNumberSongLyrics].lyrics[randomNumberSongLyricsPart + 1]
 
     randomGeneratedSongPart1 = linesSingTheSong[randomNumberSongLyricsPart].line
     randomGeneratedSongPart2 = linesSingTheSong[randomNumberSongLyricsPart + 1].line
+    randomGeneratedSongPart3 = linesSingTheSong[randomNumberSongLyricsPart + 2].line
 
     document.getElementById('randomSong1').innerHTML = randomGeneratedSongPart1;
     document.getElementById('randomSong2').innerHTML = randomGeneratedSongPart2;
+    document.getElementById('randomSong3').innerHTML = randomGeneratedSongPart3;
 
 
     console.log("Respuesta: " + songsLyrics[randomNumberSongLyrics].title);
@@ -17271,6 +17042,7 @@ function showAnswer() {
     document.getElementById("songTitle").hidden = false;
     document.getElementById("randomSong1").hidden = true;
     document.getElementById("randomSong2").hidden = true;
+    document.getElementById("randomSong3").hidden = true;
     document.getElementById("timer").hidden = true;
 
     playAudio();
