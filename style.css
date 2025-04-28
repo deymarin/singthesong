@@ -1,5 +1,9 @@
 :root {
-  --font-title: 'sunset';
+  --font-title: 'sunset', cursive;
+  --main-color: #ff4081;
+  --background-color: #0a0a0a;
+  --text-color: #ffffff;
+  --accent-color: #ffd740;
 }
 
 @font-face {
@@ -9,107 +13,115 @@
   font-style: normal;
 }
 
-/* Reset some defaults */
-html, body {
+/* General Reset */
+* {
   margin: 0;
   padding: 0;
-  height: 100%;
+  box-sizing: border-box;
 }
 
-/* Full background */
+/* Body Styles */
 body {
-  background: url("./img/background.png") center/cover repeat;
+  background: url("../img/background.png") center/cover no-repeat;
+  background-color: var(--background-color);
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-}
-
-/* Central container */
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 2rem;
-}
-
-/* Title */
-.title {
-  text-align: center;
-  font-size: clamp(2rem, 4vw, 4rem); /* smaller scaling */
-  color: white;
-  font-family: var(--font-title);
-  margin-bottom: 2rem;
-}
-
-/* General h1 (like randomSongTitle) */
-h1 {
-  text-align: center;
-  color: white;
   font-family: 'Segoe UI', sans-serif;
-  font-size: clamp(1.2rem, 2.5vw, 2rem); /* smaller */
-  margin: 1rem 0;
+  color: var(--text-color);
 }
 
-/* Button styling */
-button {
-  background-color: black;
-  color: white;
-  padding: 1rem 2rem;
-  font-size: 1.2rem; /* smaller font */
-  border-radius: 30px;
-  border: none;
-  margin: 1rem 0;
-  width: 80%;
-  max-width: 300px;
-  cursor: pointer;
-  transition: background 0.3s, border 0.3s;
-}
-
-button:hover {
-  background-color: transparent;
-  border: 2px solid white;
-}
-
-/* Responsive adjustments */
-@media (min-width: 1440px) {
-  .container {
-    padding-top: 5rem;
-  }
-}
-
-.secondary-btn {
-  background-color: rgba(255, 255, 255, 0.425);
-  color: black;
-}
-
-/* Button container */
-.longer {
-  display: flex;
-  flex-direction: column; /* Default: vertical on mobile */
-  align-items: center;
-  gap: 1rem; /* spacing between buttons */
-  width: 100%;
+/* Main Container */
+.main-container {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 2rem;
+  border-radius: 20px;
+  text-align: center;
+  width: 90%;
   max-width: 800px;
 }
 
-/* On larger screens: horizontal layout */
+/* Titles */
+.game-title {
+  font-family: var(--font-title);
+  font-size: clamp(2rem, 4vw, 3rem);
+  color: var(--accent-color);
+  margin-bottom: 2rem;
+}
+
+/* Lyrics */
+.lyric-container {
+  margin-bottom: 1.5rem;
+}
+
+.lyric-line {
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  margin: 0.5rem 0;
+  font-weight: 500;
+}
+
+/* Timer */
+.timer {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--main-color);
+  margin-bottom: 2rem;
+}
+
+/* Answer */
+.answer {
+  font-size: 1.8rem;
+  color: var(--accent-color);
+  margin-bottom: 1rem;
+}
+
+/* Buttons */
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.primary-btn, .secondary-btn {
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.primary-btn {
+  background-color: var(--main-color);
+  color: white;
+}
+
+.primary-btn:hover {
+  background-color: #ff79a8;
+}
+
+.secondary-btn {
+  background-color: transparent;
+  border: 2px solid var(--accent-color);
+  color: var(--accent-color);
+}
+
+.secondary-btn:hover {
+  background-color: var(--accent-color);
+  color: black;
+}
+
+/* Responsive layout */
 @media (min-width: 768px) {
-  .longer {
+  .button-group {
     flex-direction: row;
     justify-content: center;
   }
 }
 
-
-
-.change {
-  font-size: 1.2rem;
-}
-
-
-
-#timer {
-  font-size: 2rem; /* fixed size */
-  font-weight: bold;
+audio {
+  width: 90%;
+  max-width: 300px;
+  margin: 1rem 0;
 }
