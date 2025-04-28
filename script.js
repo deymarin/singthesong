@@ -16917,7 +16917,7 @@ function singTheSong() {
 }
 
 function moveCategory() {
-    window.location.href = "elige-la-categoria/categoria.html";
+    window.location.href = "../elige-la-categoria/categoria.html";
 }
 
 function moveSingTheSong() {

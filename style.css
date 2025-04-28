@@ -18,7 +18,7 @@ html, body {
 
 /* Full background */
 body {
-  background: url("./img/background.png") center/cover no-repeat;
+  background: url("./img/background.png") center/cover repeat;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -36,7 +36,7 @@ body {
 /* Title */
 .title {
   text-align: center;
-  font-size: clamp(2rem, 6vw, 6rem);
+  font-size: clamp(2rem, 4vw, 4rem); /* smaller scaling */
   color: white;
   font-family: var(--font-title);
   margin-bottom: 2rem;
@@ -47,7 +47,7 @@ h1 {
   text-align: center;
   color: white;
   font-family: 'Segoe UI', sans-serif;
-  font-size: clamp(1.5rem, 4vw, 3rem);
+  font-size: clamp(1.2rem, 2.5vw, 2rem); /* smaller */
   margin: 1rem 0;
 }
 
@@ -56,7 +56,7 @@ button {
   background-color: black;
   color: white;
   padding: 1rem 2rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem; /* smaller font */
   border-radius: 30px;
   border: none;
   margin: 1rem 0;
@@ -81,4 +81,35 @@ button:hover {
 .secondary-btn {
   background-color: rgba(255, 255, 255, 0.425);
   color: black;
+}
+
+/* Button container */
+.longer {
+  display: flex;
+  flex-direction: column; /* Default: vertical on mobile */
+  align-items: center;
+  gap: 1rem; /* spacing between buttons */
+  width: 100%;
+  max-width: 800px;
+}
+
+/* On larger screens: horizontal layout */
+@media (min-width: 768px) {
+  .longer {
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
+
+
+.change {
+  font-size: 1.2rem;
+}
+
+
+
+#timer {
+  font-size: 2rem; /* fixed size */
+  font-weight: bold;
 }
