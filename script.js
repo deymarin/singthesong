@@ -16917,6 +16917,10 @@ function singTheSong() {
 }
 
 function moveCategory() {
+    window.location.href = "elige-la-categoria/categoria.html";
+}
+
+function moveCategoryBtn() {
     window.location.href = "../elige-la-categoria/categoria.html";
 }
 
