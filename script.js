@@ -16935,6 +16935,14 @@ function moveCategory() {
     window.location.href = "elige-la-categoria/categoria.html";
 }
 
+function moveCategoryTwo() {
+    window.location.href = "categoria-dos.html";
+}
+
+function moveCategoryPrincipal() {
+    window.location.href = "categoria.html";
+}
+
 function moveCategoryBtn() {
     window.location.href = "../elige-la-categoria/categoria.html";
 }
@@ -16953,6 +16961,10 @@ function moveKeyWord() {
 
 function moveGuessTheSong() {
     window.location.href = "../canta-la-cancion/adivina-la-cancion.html";
+}
+
+function moveLetsSing() {
+    window.location.href = "../canta-la-cancion/a-cantar.html";
 }
 
 function showAnswer() {
@@ -17027,7 +17039,7 @@ function playGuessTheSong(){
 function showAnswerGuessTheSong() {
     document.getElementById("songTitle").hidden = false;
 
-    document.getElementById("audio").currentTime = songGuessTheSong.seconds.chorus;
+    document.getElementById("audio").currentTime = songGuessTheSong.seconds.guess;
 
     playAudio();
     
@@ -17039,7 +17051,6 @@ function pauseAudio(){
     audio.pause();
 }
 
-//TODO: Intentar guardar en una variable global las canciones que ya se mostraron para no repetirlas
 
 //Timer
 let allowedSeconds = 46;
