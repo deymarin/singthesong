@@ -9493,7 +9493,7 @@
             ]
         },
         {
-            "title": "Como niños",
+            "title": "Un amor sin final",
             "path": "../songs/Como niños.mp3",
             "karaokePath": "..songs/karaoke/Como niños.mp3",
             "category": {
@@ -10758,7 +10758,7 @@
             ]
         },
         {
-            "title": "Siempre feliz",
+            "title": "Encuentra la paz",
             "path": "../songs/Siempre feliz.mp3",
             "karaokePath": "..songs/karaoke/Siempre feliz.mp3",
             "category": {
@@ -12326,8 +12326,8 @@
         },
         {
             "title": "¿A quién vamos a acudir?",
-            "path": "../songs/¿A quién vamos a acudir?.mp3",
-            "karaokePath": "..songs/karaoke/¿A quién vamos a acudir?.mp3",
+            "path": "../songs/A quién vamos a acudir.mp3",
+            "karaokePath": "..songs/karaoke/A quién vamos a acudir.mp3",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
@@ -12537,8 +12537,8 @@
         },
         {
             "title": "¿A quién temeré?",
-            "path": "../songs/¿A quién temeré?.mp3",
-            "karaokePath": "..songs/karaoke/¿A quién temeré?.mp3",
+            "path": "../songs/A quién temeré.mp3",
+            "karaokePath": "..songs/karaoke/A quién temeré.mp3",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adivina la Canción</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body onload="randomSongTitle()">
+
+  <div class="main-container">
+
+    <h1 class="game-title">Canta la cancion que se llama:</h1>
+
+    <!-- <div class="lyric-container">
+      <h2 id="randomSong1" class="lyric-line"> Las asambleas</h2>
+      <h2 id="randomSong2" class="lyric-line"></h2>
+      <h2 id="randomSong3" class="lyric-line"></h2>
+    </div> -->
+
+    
+
+    <h2 id="songTitle" class="answer" ></h2>
+    <div id="timer" class="timer">45s</div>
+    <audio id="audio" src="" controls hidden></audio>
+
+    <div class="button-group">
+      <button class="primary-btn" onClick="randomSongTitle()">Siguiente</button>
+      <button class="secondary-btn" onClick="showAnswer()">Mostrar Respuesta</button>
+      <button class="secondary-btn" onClick="moveCategoryBtn()">Categoría</button>
+    </div>
+
+  </div>
+
+  <script src="../script.js" defer></script>
+</body>
+</html>

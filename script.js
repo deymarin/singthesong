@@ -6,113 +6,7 @@ function random(max) {
     return Math.floor(Math.random() * (max + 1));
 }
 
-//Song Title
 
-songs = `{
-    "songs": [
-        "La vida más hermosa",
-        "Allí estaremos",
-        "Si fueras conmigo",
-        "¿Qué es lo más importante?",
-        "Fiel yo seré",
-        "Jehová, lo mejor es para ti",
-        "Mi vida entera te doy",
-        "Superé la prueba",
-        "Hoy es el día",
-        "Sonreír",
-        "Imaginarlo",
-        "Jehová te dice: “¡Vuelve a mí!”",
-        "Las asambleas nos hacen felices",
-        "Te entrego lo mejor de mí",
-        "Ten calma al decidir",
-        "Contemplo ese día",
-        "Estoy al día",
-        "Tú puedes dar el paso",
-        "No corras más",
-        "Sigue mostrando hospitalidad",
-        "Mil gracias, Jehová",
-        "Soy parte de tu nación",
-        "Mi decisión",
-        "Hay que perdonar",
-        "Muy cerca",
-        "Fuerte tú serás",
-        "Tu Palabra durará por siempre",
-        "Oye a Jehová",
-        "Mi futuro con Jehová",
-        "Paso a paso",
-        "Lo mejor",
-        "Me levantaré",
-        "Tus obras, Gran Jehová",
-        "Mi pequeña",
-        "Hay que avanzar",
-        "Mírame",
-        "Jehová, te quiero cantar",
-        "Lo principal",
-        "Amor de verdad",
-        "Confiar en ti",
-        "Hoy voy a cambiar",
-        "Jamás me dejarás",
-        "Amor fraternal",
-        "Todo irá bien",
-        "Busca y hallarás",
-        "Un amigo fiel",
-        "Cuenta conmigo",
-        "Unidos por la verdad",
-        "Por ti seré valiente",
-        "Servirte me hace feliz",
-        "Cada día traerá su inquietud",
-        "No te dejes vencer",
-        "Gracias por ser nuestro Creador",
-        "Tú eres mi familia",
-        "Aguanta un poco más",
-        "Jehová jamás nos fallará",
-        "La vida de verdad",
-        "Te entregaré mi amor",
-        "Un amor sin final",
-        "Cuéntaselo",
-        "Como niños",
-        "Recuérdalo bien",
-        "Te perdono",
-        "Muévete",
-        "Ni un paso atrás",
-        "Mi dulce amor",
-        "Encuentra la paz",
-        "Siempre feliz",
-        "Una gran familia",
-        "Dile a Dios que sí",
-        "Mi mayor felicidad",
-        "Ya verás",
-        "Dedícale tiempo",
-        "Si tienes fe",
-        "La familia de Jehová",
-        "Un mismo corazón",
-        "¿A quién vamos a acudir?",
-        "¿A quién temeré?",
-        "Es hora de hacer las paces",
-        "Aprende de tu error",
-        "Ayer, hoy... y para siempre",
-        "Solo paz",
-        "Acércate a mí",
-        "Danos paciencia",
-        "Volver a tu hogar",
-        "Jehová lo ve",
-        "Él no lo hará",
-        "Por fin vivir en paz",
-        "No lo puedo contener",
-        "Vivir mi fe",
-        "Un río que nunca termina",
-        "¡Falta poco ya!",
-        "¡Buenas noticias!",
-        "Stop al estrés",
-        "No te compliques",
-        "Se cumplirá",
-        "Vivir en paz en este mundo cruel",
-        "Me elevas con tu poder",
-        "Demos gloria a Jehová",
-        "En tus manos",
-        "Hacer tu voluntad"
-    ]
-}`
 
 
 
@@ -12446,8 +12340,8 @@ songsLyricsJson = `{
         },
         {
             "title": "¿A quién vamos a acudir?",
-            "path": "../songs/¿A quién vamos a acudir?.mp3",
-            "karaokePath": "..songs/karaoke/¿A quién vamos a acudir?.mp3",
+            "path": "../songs/A quién vamos a acudir.mp3",
+            "karaokePath": "..songs/karaoke/A quién vamos a acudir.mp3",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
@@ -12657,8 +12551,8 @@ songsLyricsJson = `{
         },
         {
             "title": "¿A quién temeré?",
-            "path": "../songs/¿A quién temeré?.mp3",
-            "karaokePath": "..songs/karaoke/¿A quién temeré?.mp3",
+            "path": "../songs/A quién temeré.mp3",
+            "karaokePath": "..songs/karaoke/A quién temeré.mp3",
             "category": {
                 "singTheSong": false,
                 "guessTheSong": false
@@ -16813,29 +16707,99 @@ songsLyricsJson = `{
     ]
 }`
 
+//Key Words Json
+
+keyWordsJson = `{
+    "keyWords": [
+        {
+            "word": "Vida",
+            "songs": [
+                "Hoy es el día",
+                "Mi vida entera te doy",
+                "Jehová, lo mejor es para ti",
+                "Fiel yo seré",
+                "¿Qué es lo más importante?",
+                "La vida más hermosa"
+            ]
+        },
+        {
+            "word": "Amor",
+            "songs": [
+                "Allí estaremos",
+                "Jehová, lo mejor es para ti",
+                "Hoy es el día",
+                "Sonreír",
+                "Las asambleas nos hacen felices",
+                "Te entrego lo mejor de mí",
+                "Sigue mostrando hospitalidad",
+                "Mil gracias, Jehová",
+                "Mi decisión",
+                "Hay que perdonar",
+                "Muy cerca",
+                "Fuerte tú serás",
+                "Tu Palabra durará por siempre",
+                "Lo mejor",
+                "Me levantaré",
+                "Tus obras, Gran Jehová",
+                "Mi pequeña",
+                "Amor de verdad",
+                "Jamás me dejarás",
+                "Amor fraternal",
+                "Un amigo fiel",
+                "Unidos por la verdad",
+                "Cada día traerá su inquietud",
+                "Gracias por ser nuestro Creador",
+                "Tú eres mi familia",
+                "La vida de verdad",
+                "Te entregaré mi amor",
+                "Un amor sin final",
+                "Recuérdalo bien",
+                "Ni un paso atrás",
+                "Mi dulce amor",
+                "Encuentra la paz",
+                "Siempre feliz",
+                "Una gran familia",
+                "Ya verás",
+                "Dedícale tiempo",
+                "Si tienes fe",
+                "¿A quién vamos a acudir?",
+                "Un río que nunca termina",
+                "Vivir en paz en este mundo cruel",
+                "Un regalo especial"
+            ]
+        },
+        {
+            "word": "Cruel",
+            "songs": [
+                "Tu Palabra durará por siempre",
+                "Mírame",
+                "Todo irá bien",
+                "Un amor sin final",
+                "Solo paz",
+                "Vivir en paz en este mundo cruel",
+                "Me elevas con tu poder"
+            ]
+        },
+        {
+            "word": "Día",
+            "songs": [
+              "La vida más hermosa",
+              "Fiel yo seré",
+              "Jehová, lo mejor es para ti",
+              "Superé la prueba",
+              "Hoy es el día",
+              "Sonreír",
+              "Las asambleas nos hacen felices",
+              "Contemplo ese día",
+              "Estoy al día",
+              "Muy cerca"
+
+            ]
+        }
+    ]
+}`
 
 
-function randomSong() {
-
-    const songsJson = JSON.parse(songs)
-    const songsLenght = songsJson.songs.length
-
-    //console.log("length: " + songsJson.songs[1]);
-    //console.log(random(11));
-    //console.log(typeof songsJson);
-    //console.log("songs lenght " + songsLenght);
-
-    //No tener en cuenta el numero 101 esto se soluciona con el menos 1 en el lenght de songs
-
-    let randomNumber = random(songsLenght - 1);
-
-    //console.log("randomNumber " + randomNumber);
-
-    let randomGeneratedSong = songsJson.songs[randomNumber];
-
-    document.getElementById('randomSongTitle').innerHTML = randomGeneratedSong;
-
-}
 
 function valiteSingTheSong(song){
     return song.category.singTheSong = false;
@@ -16846,16 +16810,18 @@ function valiteSingTheSong(song){
 let songsLyrics = JSON.parse(songsLyricsJson)
 songsLyrics = songsLyrics.songsLyrics;
 sessionStorage.setItem("songs", JSON.stringify(songsLyrics));
-console.log("session: " + sessionStorage.getItem("songs"))
+
+let keyWords = JSON.parse(keyWordsJson)
+keyWords = keyWords.keyWords;
 
 function singTheSong() {
-    document.getElementById("songTitle").hidden = true;
-    document.getElementById("randomSong1").hidden = false;
-    document.getElementById("randomSong2").hidden = false;
-    document.getElementById("randomSong3").hidden = false;
-    document.getElementById("timer").hidden = false;
-    pauseAudio();
-    
+    // document.getElementById("songTitle").hidden = true;
+    // document.getElementById("randomSong1").hidden = false;
+    // document.getElementById("randomSong2").hidden = false;
+    // document.getElementById("randomSong3").hidden = false;
+    // document.getElementById("timer").hidden = false;
+    // pauseAudio();
+    showElements();
 
     songsLyrics = songsLyrics.filter( (song) => song.category.singTheSong == false  );
 
@@ -16903,16 +16869,54 @@ function singTheSong() {
 
     document.getElementById('songTitle').innerHTML = songTitle;
     document.getElementById("audio").src = song.path;
-    // "../songs/Jehová te dice “¡Vuelve a mí!”.mp3";
     audio.currentTime = song.seconds.chorus;
 
 
-    stopTimer();
-    startTimer();
+    resetTimer();
 
     songsLyrics[randomNumberSongLyrics].category.singTheSong = true;
 
+}
 
+function showElements(){
+    document.getElementById("songTitle").hidden = true;
+
+    randomSong1Exist = document.getElementById("randomSong1");
+    if (randomSong1Exist)
+        document.getElementById("randomSong1").hidden = false;
+
+    randomSong2Exist = document.getElementById("randomSong2");
+    if (randomSong2Exist)
+        document.getElementById("randomSong2").hidden = false;
+
+    randomSong3Exist = document.getElementById("randomSong3");
+    if (randomSong3Exist)
+        document.getElementById("randomSong3").hidden = false;
+
+
+    document.getElementById("timer").hidden = false;
+    pauseAudio();
+}
+
+function randomSongTitle(){
+    showElements();
+    document.getElementById("songTitle").hidden = false;
+    
+
+    const songsLyrcisLenght = songsLyrics.length
+
+    const randomNumberSongLyrics = random(songsLyrcisLenght - 1);
+
+    song = songsLyrics[randomNumberSongLyrics]
+    songTitle = songsLyrics[randomNumberSongLyrics].title
+
+    document.getElementById('songTitle').innerHTML = songTitle;
+
+    document.getElementById("audio").src = song.path;
+    audio.currentTime = song.seconds.chorus;
+
+
+    resetTimer();
 
 }
 
@@ -16926,15 +16930,31 @@ function moveCategoryBtn() {
 
 function moveSingTheSong() {
     window.location.href = "../canta-la-cancion/canta-la-cancion.html";
+}
 
+function moveSongTitle() {
+    window.location.href = "../canta-la-cancion/nombre-cancion.html";
+}
 
+function moveKeyWord() {
+    window.location.href = "../canta-la-cancion/palabra-clave.html";
 }
 
 function showAnswer() {
     document.getElementById("songTitle").hidden = false;
-    document.getElementById("randomSong1").hidden = true;
-    document.getElementById("randomSong2").hidden = true;
-    document.getElementById("randomSong3").hidden = true;
+
+    randomSong1Exist = document.getElementById("randomSong1");
+    if (randomSong1Exist)
+        document.getElementById("randomSong1").hidden = true;
+
+    randomSong2Exist = document.getElementById("randomSong2");
+    if (randomSong2Exist)
+        document.getElementById("randomSong2").hidden = true;
+
+    randomSong3Exist = document.getElementById("randomSong3");
+    if (randomSong3Exist)
+        document.getElementById("randomSong3").hidden = true;
+
     document.getElementById("timer").hidden = true;
 
     playAudio();
@@ -16995,11 +17015,83 @@ function timer() {
     if (timerLeft <= 0) {
         clearInterval(intervarId)
         timerElement.textContent = 'Se acabó el tiempo.'
-        timerElement.style.color = 'black'
     }
 }
 
 
+function resetTimer(){
+    stopTimer();
+    startTimer();
+}
+
+function randomKeyWords(){
+    showElements();
+    document.getElementById("songTitle").hidden = false;
+    document.getElementById("randomSong1").hidden = true;
+    document.getElementById("randomSong2").hidden = true;
+    
+    const keyWordsLenght = keyWords.length
+    const randomKeyWord = random(keyWordsLenght - 1);
+
+    keyWord = keyWords[randomKeyWord].word;
+
+    console.log("Random Key Word: " + keyWords[randomKeyWord].word);
+
+    const keyWordSongLenght = keyWords[randomKeyWord].songs.length
+
+    const randomSongKeyWordIndex = random(keyWordSongLenght - 1);
+
+    randomSongKeyWord = keyWords[randomKeyWord].songs[randomSongKeyWordIndex]
+
+    console.log("randomSongKeyWord" + randomSongKeyWord)
+
+    songs = songsLyrics.filter ((song) => song.title == randomSongKeyWord );
+
+    //console.log("songs : " +JSON.stringify(songs))
+
+    randomSong = songs[0];
+
+    console.log("Random Song Key Word : " + keyWords[randomKeyWord].songs[randomSongKeyWordIndex]);
+    //console.log("Random song " + randomSong.title );
+
+    linesWithWord = songs[0].lyrics.filter((line) => line.singTheSong == true);
+    linesWithWord = linesWithWord.filter ( (line) => line.line.toLowerCase().includes(keyWord.toLowerCase()) );
+
+    console.log("Line with word song " + linesWithWord[0].line );
+
+    document.getElementById('songTitle').innerHTML = keyWord;
+
+    document.getElementById('randomSong1').innerHTML = randomSong.title + " dice...";
+    document.getElementById('randomSong2').innerHTML = linesWithWord[0].line;
+
+
+    document.getElementById("audio").src = randomSong.path;
+    audio.currentTime = randomSong.seconds.chorus;
+
+
+    resetTimer();
+}
+
+function showAnswerInverted() {
+    document.getElementById("songTitle").hidden = true;
+
+    randomSong1Exist = document.getElementById("randomSong1");
+    if (randomSong1Exist)
+        document.getElementById("randomSong1").hidden = false;
+
+    randomSong2Exist = document.getElementById("randomSong2");
+    if (randomSong2Exist)
+        document.getElementById("randomSong2").hidden = false;
+
+    randomSong3Exist = document.getElementById("randomSong3");
+    if (randomSong3Exist)
+        document.getElementById("randomSong3").hidden = false;
+
+    document.getElementById("timer").hidden = true;
+
+    playAudio();
+    
+}
 
 
 
