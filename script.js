@@ -24,7 +24,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 50,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -159,7 +159,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 57,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -294,7 +294,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 30,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -417,7 +417,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 9,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -488,7 +488,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 61,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -631,7 +631,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 47,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -734,7 +734,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -861,7 +861,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 51,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -996,7 +996,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 43,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -1179,7 +1179,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 45,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -1318,7 +1318,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 35,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -1441,7 +1441,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 60,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -1556,7 +1556,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 36,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -1691,7 +1691,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 40,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -1798,7 +1798,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 44,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -1913,7 +1913,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 39,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -2052,7 +2052,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -2255,7 +2255,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 57,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -2398,7 +2398,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 27,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -2541,7 +2541,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -2672,7 +2672,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 22,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -2739,7 +2739,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 49,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -2826,7 +2826,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 84,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -2901,7 +2901,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -3040,7 +3040,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 71,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -3223,7 +3223,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -3418,7 +3418,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 81,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -3557,7 +3557,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 38,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -3736,7 +3736,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 43,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -3891,7 +3891,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 52,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -4070,7 +4070,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 88,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -4189,7 +4189,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 48,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -4328,7 +4328,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 78,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -4455,7 +4455,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 40,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -4602,7 +4602,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 38,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -4745,7 +4745,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 37,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -5024,7 +5024,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 37,
-                "guess": 1
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -5191,7 +5191,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 49,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -5322,7 +5322,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -5525,7 +5525,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 48,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -5692,7 +5692,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 37,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -5903,7 +5903,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 70,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -6106,7 +6106,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 76,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -6257,7 +6257,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 67,
-                "guess": 6
+                "guess": 7
             },
             "lyrics": [
                 {
@@ -6428,7 +6428,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 60,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -6595,7 +6595,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 46,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -6826,7 +6826,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 78,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -6989,7 +6989,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 48,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -7172,7 +7172,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 57,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -7367,7 +7367,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 74,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -7498,7 +7498,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 45,
-                "guess": 1
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -7721,7 +7721,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -7924,7 +7924,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 45,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -8155,7 +8155,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 45,
-                "guess": 1
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -8394,7 +8394,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 56,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -8589,7 +8589,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 40,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -8816,7 +8816,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 58,
-                "guess": 1
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -9019,7 +9019,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 95,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -9154,7 +9154,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 57,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -9353,7 +9353,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 47,
-                "guess": 1
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -9507,7 +9507,7 @@ songsLyricsJson = `{
             ]
         },
         {
-            "title": "Como niños",
+            "title": "Un amor sin final",
             "path": "../songs/Como niños.mp3",
             "karaokePath": "..songs/karaoke/Como niños.mp3",
             "category": {
@@ -9516,7 +9516,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 42,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -9671,7 +9671,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 46,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -9890,7 +9890,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 54,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -10077,7 +10077,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -10336,7 +10336,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 54,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -10487,7 +10487,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 77,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -10614,7 +10614,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 56,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -10772,7 +10772,7 @@ songsLyricsJson = `{
             ]
         },
         {
-            "title": "Siempre feliz",
+            "title": "Encuentra la paz",
             "path": "../songs/Siempre feliz.mp3",
             "karaokePath": "..songs/karaoke/Siempre feliz.mp3",
             "category": {
@@ -10781,7 +10781,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 45,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -10944,7 +10944,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 73,
-                "guess": 7
+                "guess": 8
             },
             "lyrics": [
                 {
@@ -11111,7 +11111,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 42,
-                "guess": 1
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -11310,7 +11310,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 42,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -11529,7 +11529,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 55,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -11716,7 +11716,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 28,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -11879,7 +11879,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 47,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -12066,7 +12066,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 75,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -12189,7 +12189,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 70,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -12348,7 +12348,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 75,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -12559,7 +12559,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 36,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -12706,7 +12706,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 45,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -12869,7 +12869,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -13092,7 +13092,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 40,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -13227,7 +13227,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 37,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -13418,7 +13418,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 54,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -13573,7 +13573,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 50,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -13712,7 +13712,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 33,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -13867,7 +13867,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 60,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -14034,7 +14034,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 40,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -14245,7 +14245,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 48,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -14396,7 +14396,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 70,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -14551,7 +14551,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 1
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -14742,7 +14742,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 41,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -14861,7 +14861,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 43,
-                "guess": 1
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -15040,7 +15040,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 57,
-                "guess": 4
+                "guess": 5
             },
             "lyrics": [
                 {
@@ -15183,7 +15183,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 33,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -15322,7 +15322,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 34,
-                "guess": 1
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -15521,7 +15521,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 44,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -15696,7 +15696,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 50,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -15827,7 +15827,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 47,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -15970,7 +15970,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 68,
-                "guess": 2
+                "guess": 3
             },
             "lyrics": [
                 {
@@ -16153,7 +16153,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 44,
-                "guess": 1
+                "guess": 2
             },
             "lyrics": [
                 {
@@ -16336,7 +16336,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 38,
-                "guess": 5
+                "guess": 6
             },
             "lyrics": [
                 {
@@ -16551,7 +16551,7 @@ songsLyricsJson = `{
             },
             "seconds": {
                 "chorus": 80,
-                "guess": 3
+                "guess": 4
             },
             "lyrics": [
                 {
@@ -16795,7 +16795,18 @@ keyWordsJson = `{
               "Muy cerca"
 
             ]
+        },
+        
+        {
+            "word": "Paz",
+            "songs": [
+              "Fiel yo seré",
+              "Sonreír"
+
+
+            ]
         }
+
     ]
 }`
 
@@ -16940,6 +16951,10 @@ function moveKeyWord() {
     window.location.href = "../canta-la-cancion/palabra-clave.html";
 }
 
+function moveGuessTheSong() {
+    window.location.href = "../canta-la-cancion/adivina-la-cancion.html";
+}
+
 function showAnswer() {
     document.getElementById("songTitle").hidden = false;
 
@@ -16968,11 +16983,34 @@ function playAudio(){
 
 }
 
+let songGuessTheSong ;
+
 function guessTheSong(){
 
+    document.getElementById("songTitle").hidden = true;
     let audio = document.getElementById("audio");
-    audio.hidden = false;
+    ///audio.hidden = false;
 
+    let songsLyricsGuesTheSong = songsLyrics.filter( (song) => song.category.guessTheSong == false  );
+    const songsLyrcisLenght = songsLyricsGuesTheSong.length
+    const randomNumberSongLyrics = random(songsLyrcisLenght - 1);
+
+    console.log("songsLyricsGuesTheSong lenght: " + songsLyrcisLenght); 
+
+    songGuessTheSong = songsLyrics[randomNumberSongLyrics]
+    songTitle = songsLyrics[randomNumberSongLyrics].title
+
+    document.getElementById('songTitle').innerHTML = songTitle;
+
+    document.getElementById("audio").src = songGuessTheSong.path;
+
+    console.log(songGuessTheSong.seconds.guess );
+
+    songsLyrics[randomNumberSongLyrics].category.guessTheSong = true;
+
+}
+
+function playGuessTheSong(){
 
     setTimeout(function(){
         audio.play();
@@ -16980,9 +17018,19 @@ function guessTheSong(){
         setTimeout(function(){
             audio.pause();
             audio.currentTime = 0;
-        }, 5000);
+        }, (songGuessTheSong.seconds.guess * 1000));
+
     }, 1000);
 
+}
+
+function showAnswerGuessTheSong() {
+    document.getElementById("songTitle").hidden = false;
+
+    document.getElementById("audio").currentTime = songGuessTheSong.seconds.chorus;
+
+    playAudio();
+    
 }
 
 function pauseAudio(){
@@ -17087,7 +17135,9 @@ function showAnswerInverted() {
     if (randomSong3Exist)
         document.getElementById("randomSong3").hidden = false;
 
-    document.getElementById("timer").hidden = true;
+    timerExist = document.getElementById("timer");
+    if(timerExist)
+        document.getElementById("timer").hidden = true;
 
     playAudio();
     

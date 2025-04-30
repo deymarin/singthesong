@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adivina la Canción</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body onload="guessTheSong()">
+
+  <div class="main-container">
+
+    <h1 class="game-title">Canta la cancion que inicia así:</h1>
+
+    
+
+    
+
+    <h2 id="songTitle" class="answer" hidden></h2>
+    <!-- <div id="timer" class="timer">45s</div> -->
+    <audio id="audio" src="" controls ></audio>
+
+    <div class="button-group">
+      <button class="primary-btn" onClick="playGuessTheSong()">Reproducir</button>
+      <button class="secondary-btn" onClick="showAnswerGuessTheSong()">Mostrar Respuesta</button>
+      <button class="secondary-btn" onClick="guessTheSong()">Siguiente</button>
+      <button class="secondary-btn" onClick="moveCategoryBtn()">Categoría</button>
+    </div>
+
+  </div>
+
+  <script src="../script.js" defer></script>
+</body>
+</html>
