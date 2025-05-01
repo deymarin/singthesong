@@ -29,122 +29,182 @@ songsLyricsJson = `{
             "lyrics": [
                 {
                     "line": "El mundo quiere verme sufrir, pero yo seré feliz,",
+                    "letsSing": true,
+                    "second": 7,
                     "singTheSong": true
                 },
                 {
                     "line": "pues tengo amigos y una verdad para compartir.",
+                    "letsSing": true,
+                    "second": 17,
                     "singTheSong": true
                 },
                 {
                     "line": "Vivir pensando solo en mí no me da felicidad.",
+                    "letsSing": true,
+                    "second": 28,
                     "singTheSong": true
                 },
                 {
                     "line": "Servir a los demás es bonito de verdad.",
+                    "letsSing": true,
+                    "second": 38,
                     "singTheSong": true
                 },
                 {
                     "line": "¡Ven y verás!",
+                    "letsSing": true,
+                    "second": 45,
                     "singTheSong": true
                 },
                 {
                     "line": "ESTRIBILLO",
+                    "letsSing": false,
+                    "second": 0,
                     "singTheSong": false
                 },
                 {
                     "line": "Ah, es tanto lo que puedo dar, quiero ayudar a los demás.",
+                    "letsSing": true,
+                    "second": 51,
                     "singTheSong": true
                 },
                 {
                     "line": "¡Qué sensación tan preciosa!",
+                    "letsSing": true,
+                    "second": 58,
                     "singTheSong": true
                 },
                 {
                     "line": "Ah, es mucho más que un sueño, es una realidad:",
+                    "letsSing": true,
+                    "second": 61,
                     "singTheSong": true
                 },
                 {
                     "line": "la vida más hermosa.",
+                    "letsSing": true,
+                    "second": 69,
                     "singTheSong": true
                 },
                 {
                     "line": "Es hora de decir “¡Aquí estoy!”, hay tanto por hacer.",
+                    "letsSing": true,
+                    "second": 77,
                     "singTheSong": true
                 },
                 {
                     "line": "Lo he decidido, el día es hoy: me voy a ofrecer.",
+                    "letsSing": true,
+                    "second": 88,
                     "singTheSong": true
                 },
                 {
                     "line": "Vivir pensando solo en mí no me da felicidad.",
+                    "letsSing": true,
+                    "second": 98,
                     "singTheSong": true
                 },
                 {
                     "line": "Servir a los demás es bonito de verdad.",
+                    "letsSing": true,
+                    "second": 108,
                     "singTheSong": true
                 },
                 {
                     "line": "¡Ven y verás!",
+                    "letsSing": true,
+                    "second": 115,
                     "singTheSong": true
                 },
                 {
                     "line": "ESTRIBILLO",
+                    "letsSing": false,
+                    "second": 0,
                     "singTheSong": false
                 },
                 {
                     "line": "Ah, veré de lo que soy capaz, quiero ayudar a los demás.",
+                    "letsSing": true,
+                    "second": 120,
                     "singTheSong": true
                 },
                 {
                     "line": "¡Qué sensación tan preciosa!",
+                    "letsSing": true,
+                    "second": 128,
                     "singTheSong": true
                 },
                 {
                     "line": "Ah, es mucho más que un sueño, es una realidad",
+                    "letsSing": true,
+                    "second": 131,
                     "singTheSong": true
                 },
                 {
                     "line": "maravillosa.",
+                    "letsSing": true,
+                    "second": 138,
                     "singTheSong": true
                 },
                 {
                     "line": "PUENTE",
+                    "letsSing": false,
+                    "second": 0,
                     "singTheSong": false
                 },
                 {
                     "line": "¡Mi corazón es tan feliz!",
+                    "letsSing": true,
+                    "second": 142,
                     "singTheSong": true
                 },
                 {
                     "line": "Quiero gritar muy dentro de mí que esto sí es vivir.",
+                    "letsSing": true,
+                    "second": 153,
                     "singTheSong": true
                 },
                 {
                     "line": "ESTRIBILLO",
+                    "letsSing": false,
+                    "second": 0,
                     "singTheSong": false
                 },
                 {
                     "line": "Ah, me hace sentir en libertad, hoy tengo amigos de verdad.",
+                    "letsSing": true,
+                    "second": 172,
                     "singTheSong": true
                 },
                 {
                     "line": "En realidad, lo tengo todo.",
+                    "letsSing": true,
+                    "second": 180,
                     "singTheSong": true
                 },
                 {
                     "line": "Ah, es mucho más que un sueño, prueba y vivirás",
+                    "letsSing": true,
+                    "second": 184,
                     "singTheSong": true
                 },
                 {
                     "line": "la vida más hermosa,",
+                    "letsSing": true,
+                    "second": 191,
                     "singTheSong": true
                 },
                 {
                     "line": "la vida más hermosa,",
+                    "letsSing": true,
+                    "second": 197,
                     "singTheSong": false
                 },
                 {
                     "line": "la vida más hermosa.",
+                    "letsSing": true,
+                    "second": 203,
                     "singTheSong": false
                 }
             ]
@@ -16812,7 +16872,7 @@ keyWordsJson = `{
 
 
 
-function valiteSingTheSong(song){
+function valiteSingTheSong(song) {
     return song.category.singTheSong = false;
 }
 
@@ -16834,12 +16894,12 @@ function singTheSong() {
     // pauseAudio();
     showElements();
 
-    songsLyrics = songsLyrics.filter( (song) => song.category.singTheSong == false  );
+    songsLyrics = songsLyrics.filter((song) => song.category.singTheSong == false);
 
     console.log(songsLyrics)
 
     //TODO: Pendiente Mostrar mensaje cuando se hayan acabado todas las canciones
-    
+
     //TODO: Tomar lineas filtradas 
     //Antes 
 
@@ -16850,7 +16910,7 @@ function singTheSong() {
     //Antes
     //const songsLyrcisPartLenght = songsLyrics[randomNumberSongLyrics].lyrics.length
 
-    linesSingTheSong = songsLyrics[randomNumberSongLyrics].lyrics.filter( (line) => line.singTheSong == true);
+    linesSingTheSong = songsLyrics[randomNumberSongLyrics].lyrics.filter((line) => line.singTheSong == true);
 
     console.log("lines" + JSON.stringify(linesSingTheSong))
 
@@ -16889,7 +16949,7 @@ function singTheSong() {
 
 }
 
-function showElements(){
+function showElements() {
     document.getElementById("songTitle").hidden = true;
 
     randomSong1Exist = document.getElementById("randomSong1");
@@ -16909,10 +16969,10 @@ function showElements(){
     pauseAudio();
 }
 
-function randomSongTitle(){
+function randomSongTitle() {
     showElements();
     document.getElementById("songTitle").hidden = false;
-    
+
 
     const songsLyrcisLenght = songsLyrics.length
 
@@ -16985,29 +17045,29 @@ function showAnswer() {
     document.getElementById("timer").hidden = true;
 
     playAudio();
-    
+
 }
 
-function playAudio(){
+function playAudio() {
     let audio = document.getElementById("audio");
     audio.hidden = false;
     audio.play();
 
 }
 
-let songGuessTheSong ;
+let songGuessTheSong;
 
-function guessTheSong(){
+function guessTheSong() {
 
     document.getElementById("songTitle").hidden = true;
     let audio = document.getElementById("audio");
     ///audio.hidden = false;
 
-    let songsLyricsGuesTheSong = songsLyrics.filter( (song) => song.category.guessTheSong == false  );
+    let songsLyricsGuesTheSong = songsLyrics.filter((song) => song.category.guessTheSong == false);
     const songsLyrcisLenght = songsLyricsGuesTheSong.length
     const randomNumberSongLyrics = random(songsLyrcisLenght - 1);
 
-    console.log("songsLyricsGuesTheSong lenght: " + songsLyrcisLenght); 
+    console.log("songsLyricsGuesTheSong lenght: " + songsLyrcisLenght);
 
     songGuessTheSong = songsLyrics[randomNumberSongLyrics]
     songTitle = songsLyrics[randomNumberSongLyrics].title
@@ -17016,18 +17076,18 @@ function guessTheSong(){
 
     document.getElementById("audio").src = songGuessTheSong.path;
 
-    console.log(songGuessTheSong.seconds.guess );
+    console.log(songGuessTheSong.seconds.guess);
 
     songsLyrics[randomNumberSongLyrics].category.guessTheSong = true;
 
 }
 
-function playGuessTheSong(){
+function playGuessTheSong() {
 
-    setTimeout(function(){
+    setTimeout(function () {
         audio.play();
-    
-        setTimeout(function(){
+
+        setTimeout(function () {
             audio.pause();
             audio.currentTime = 0;
         }, (songGuessTheSong.seconds.guess * 1000));
@@ -17042,10 +17102,10 @@ function showAnswerGuessTheSong() {
     document.getElementById("audio").currentTime = songGuessTheSong.seconds.guess;
 
     playAudio();
-    
+
 }
 
-function pauseAudio(){
+function pauseAudio() {
     let audio = document.getElementById("audio");
     audio.hidden = true;
     audio.pause();
@@ -17078,17 +17138,70 @@ function timer() {
 }
 
 
-function resetTimer(){
+function resetTimerLetsSing() {
+    let audio = document.getElementById("audio");
+    audio.pause();
+    stopTimerLetsSing();
+    audio.play();
+    startTimerLetsSing();
+}
+
+//Karaoke - Let's Sing 
+
+let songSeconds = 0;
+let timerLetsSingCount = songSeconds
+let karaokeLine = document.getElementById('karaokeLine');
+let lineCount = 0;
+
+let intervalLetsSingId;
+
+let karaokeLyrics
+
+function startTimerLetsSing() {
+
+    audio = document.getElementById("audio");
+    titleSong = "La vida más hermosa";
+    let karaokeSong = songsLyrics.filter((song) => song.title == titleSong);
+    karaokeLyrics = karaokeSong[0].lyrics
+
+    intervalLetsSingId = setInterval(timerLetsSing, 1000);;
+}
+
+function stopTimerLetsSing() {
+    clearInterval(intervalLetsSingId);
+    timerLetsSingCount = songSeconds;
+}
+
+
+
+
+function timerLetsSing() {
+    timerLetsSingCount++;
+
+    karaokeLyricsFiltered = karaokeLyrics.filter((line) => line.letsSing == true);
+
+    console.log("timerLetsSingCount: " + timerLetsSingCount);
+
+    if (lineCount <= karaokeLyricsFiltered.length && timerLetsSingCount == karaokeLyricsFiltered[lineCount].second
+    ) {
+        karaokeLine.textContent = karaokeLyricsFiltered[lineCount].line;
+        lineCount++;
+    }
+
+}
+
+function resetTimer() {
     stopTimer();
     startTimer();
 }
 
-function randomKeyWords(){
+
+function randomKeyWords() {
     showElements();
     document.getElementById("songTitle").hidden = false;
     document.getElementById("randomSong1").hidden = true;
     document.getElementById("randomSong2").hidden = true;
-    
+
     const keyWordsLenght = keyWords.length
     const randomKeyWord = random(keyWordsLenght - 1);
 
@@ -17104,19 +17217,17 @@ function randomKeyWords(){
 
     console.log("randomSongKeyWord" + randomSongKeyWord)
 
-    songs = songsLyrics.filter ((song) => song.title == randomSongKeyWord );
+    songs = songsLyrics.filter((song) => song.title == randomSongKeyWord);
 
-    //console.log("songs : " +JSON.stringify(songs))
 
     randomSong = songs[0];
 
     console.log("Random Song Key Word : " + keyWords[randomKeyWord].songs[randomSongKeyWordIndex]);
-    //console.log("Random song " + randomSong.title );
 
     linesWithWord = songs[0].lyrics.filter((line) => line.singTheSong == true);
-    linesWithWord = linesWithWord.filter ( (line) => line.line.toLowerCase().includes(keyWord.toLowerCase()) );
+    linesWithWord = linesWithWord.filter((line) => line.line.toLowerCase().includes(keyWord.toLowerCase()));
 
-    console.log("Line with word song " + linesWithWord[0].line );
+    console.log("Line with word song " + linesWithWord[0].line);
 
     document.getElementById('songTitle').innerHTML = keyWord;
 
@@ -17147,11 +17258,11 @@ function showAnswerInverted() {
         document.getElementById("randomSong3").hidden = false;
 
     timerExist = document.getElementById("timer");
-    if(timerExist)
+    if (timerExist)
         document.getElementById("timer").hidden = true;
 
     playAudio();
-    
+
 }
 
 

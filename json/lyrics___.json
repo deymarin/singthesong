@@ -15,122 +15,182 @@
             "lyrics": [
                 {
                     "line": "El mundo quiere verme sufrir, pero yo seré feliz,",
+                    "letsSing": true,
+                    "second": 7,
                     "singTheSong": true
                 },
                 {
                     "line": "pues tengo amigos y una verdad para compartir.",
+                    "letsSing": true,
+                    "second": 17,
                     "singTheSong": true
                 },
                 {
                     "line": "Vivir pensando solo en mí no me da felicidad.",
+                    "letsSing": true,
+                    "second": 28,
                     "singTheSong": true
                 },
                 {
                     "line": "Servir a los demás es bonito de verdad.",
+                    "letsSing": true,
+                    "second": 38,
                     "singTheSong": true
                 },
                 {
                     "line": "¡Ven y verás!",
+                    "letsSing": true,
+                    "second": 45,
                     "singTheSong": true
                 },
                 {
                     "line": "ESTRIBILLO",
+                    "letsSing": false,
+                    "second": 0,
                     "singTheSong": false
                 },
                 {
                     "line": "Ah, es tanto lo que puedo dar, quiero ayudar a los demás.",
+                    "letsSing": true,
+                    "second": 51,
                     "singTheSong": true
                 },
                 {
                     "line": "¡Qué sensación tan preciosa!",
+                    "letsSing": true,
+                    "second": 58,
                     "singTheSong": true
                 },
                 {
                     "line": "Ah, es mucho más que un sueño, es una realidad:",
+                    "letsSing": true,
+                    "second": 61,
                     "singTheSong": true
                 },
                 {
                     "line": "la vida más hermosa.",
+                    "letsSing": true,
+                    "second": 69,
                     "singTheSong": true
                 },
                 {
                     "line": "Es hora de decir “¡Aquí estoy!”, hay tanto por hacer.",
+                    "letsSing": true,
+                    "second": 77,
                     "singTheSong": true
                 },
                 {
                     "line": "Lo he decidido, el día es hoy: me voy a ofrecer.",
+                    "letsSing": true,
+                    "second": 88,
                     "singTheSong": true
                 },
                 {
                     "line": "Vivir pensando solo en mí no me da felicidad.",
+                    "letsSing": true,
+                    "second": 98,
                     "singTheSong": true
                 },
                 {
                     "line": "Servir a los demás es bonito de verdad.",
+                    "letsSing": true,
+                    "second": 108,
                     "singTheSong": true
                 },
                 {
                     "line": "¡Ven y verás!",
+                    "letsSing": true,
+                    "second": 115,
                     "singTheSong": true
                 },
                 {
                     "line": "ESTRIBILLO",
+                    "letsSing": false,
+                    "second": 0,
                     "singTheSong": false
                 },
                 {
                     "line": "Ah, veré de lo que soy capaz, quiero ayudar a los demás.",
+                    "letsSing": true,
+                    "second": 120,
                     "singTheSong": true
                 },
                 {
                     "line": "¡Qué sensación tan preciosa!",
+                    "letsSing": true,
+                    "second": 128,
                     "singTheSong": true
                 },
                 {
                     "line": "Ah, es mucho más que un sueño, es una realidad",
+                    "letsSing": true,
+                    "second": 131,
                     "singTheSong": true
                 },
                 {
                     "line": "maravillosa.",
+                    "letsSing": true,
+                    "second": 138,
                     "singTheSong": true
                 },
                 {
                     "line": "PUENTE",
+                    "letsSing": false,
+                    "second": 0,
                     "singTheSong": false
                 },
                 {
                     "line": "¡Mi corazón es tan feliz!",
+                    "letsSing": true,
+                    "second": 142,
                     "singTheSong": true
                 },
                 {
                     "line": "Quiero gritar muy dentro de mí que esto sí es vivir.",
+                    "letsSing": true,
+                    "second": 153,
                     "singTheSong": true
                 },
                 {
                     "line": "ESTRIBILLO",
+                    "letsSing": false,
+                    "second": 0,
                     "singTheSong": false
                 },
                 {
                     "line": "Ah, me hace sentir en libertad, hoy tengo amigos de verdad.",
+                    "letsSing": true,
+                    "second": 172,
                     "singTheSong": true
                 },
                 {
                     "line": "En realidad, lo tengo todo.",
+                    "letsSing": true,
+                    "second": 180,
                     "singTheSong": true
                 },
                 {
                     "line": "Ah, es mucho más que un sueño, prueba y vivirás",
+                    "letsSing": true,
+                    "second": 184,
                     "singTheSong": true
                 },
                 {
                     "line": "la vida más hermosa,",
+                    "letsSing": true,
+                    "second": 191,
                     "singTheSong": true
                 },
                 {
                     "line": "la vida más hermosa,",
+                    "letsSing": true,
+                    "second": 197,
                     "singTheSong": false
                 },
                 {
                     "line": "la vida más hermosa.",
+                    "letsSing": true,
+                    "second": 203,
                     "singTheSong": false
                 }
             ]
