@@ -9567,7 +9567,7 @@ songsLyricsJson = `{
             ]
         },
         {
-            "title": "Un amor sin final",
+            "title": "Como niños",
             "path": "../songs/Como niños.mp3",
             "karaokePath": "..songs/karaoke/Como niños.mp3",
             "category": {
